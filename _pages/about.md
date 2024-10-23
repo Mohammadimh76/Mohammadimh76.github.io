@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>BSc at Islamic Azad University Najafabad Branch</a>.
+subtitle: BSc at <a href='https://iaun.iau.ir/en'>Islamic Azad University Najafabad Branch</a>.
 
 profile:
   align: right
