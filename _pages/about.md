@@ -37,7 +37,7 @@ I am also interested in Cooking, Travel, and Cycling.
 
 ---
 
-## Education
+### Education
 BSc - Computer Enginnering (Information Technology) - 2015-2021 <br>
 Islamic Azad University, Najafabad Branch
 - Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model -- [Document]
