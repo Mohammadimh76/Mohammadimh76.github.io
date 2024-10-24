@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Information Technology Engineer with a Bachelor’s degree from `Islamic Azad University Najafabad Branch`, one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My undergraduate thesis involved the `<b>Semantic segmentation of breast cancer pathology images using the U-Net model</b>` [document](https://mohammadimh76.github.io/), where I worked on improving the accuracy and efficiency of detecting and classifying cancerous tissues. This project gave me hands-on experience in <b>deep learning models</b>, particularly in <b>image processing</b> and <b>medical diagnostics</b>. It was a challenging yet rewarding experience that further fueled my passion for applying AI to healthcare and other impactful industries.
+
+I am passionate about staying at the forefront of technology and continue to expand my knowledge through independent research and development. In the future, I aim to contribute to cutting-edge innovations in AI, with a particular focus on its applications in healthcare, robotics, and smart systems.
+
