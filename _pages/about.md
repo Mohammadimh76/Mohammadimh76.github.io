@@ -27,6 +27,8 @@ My undergraduate thesis involved the `Semantic segmentation of breast cancer pat
 
 I am passionate about staying at the forefront of technology and continue to expand my knowledge through independent research and development. In the future, I aim to contribute to cutting-edge innovations in AI, with a particular focus on its applications in healthcare, robotics, and smart systems.
 
+---
+
 ### Research Interests
 - Artificial Intelligence, Machine Learning   
 - Optimization Algorithm, Neural & Neuro Fuzzy Network
