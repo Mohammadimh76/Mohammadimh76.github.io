@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc at <a href='https://iaun.iau.ir/en'>Islamic Azad University Najafabad Branch</a>.
+subtitle: Machine Learning Engineer -- Product Designer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    </p>    ₐ Cₒₒₗ ₐₙd Fᵤₙₙy Gᵤy 🤪</p>
+    </p>ₐ Cₒₒₗ ₐₙd Fᵤₙₙy Gᵤy 🤪</p>
 
 social: true # includes social icons at the bottom of the page
 ---
@@ -34,5 +34,13 @@ I am passionate about staying at the forefront of technology and continue to exp
 I am also interested in Cooking, Travel, and Cycling.
 
 ---
+
+## Education
+BSc - Computer Enginnering (Information Technology) - 2015-2021
+Islamic Azad University, Najafabad Branch
+- Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model -- [Document]
+- Thesis Advisor: Dr.Mehdi Jabalameli
+- 📄 Course Description
+
 
 
