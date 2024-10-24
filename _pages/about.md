@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 [LinkedIn](https://www.linkedin.com/in/MohammadiMH76/) -- [ORCID](https://orcid.org/0000-0003-2741-7757) - [Github](https://github.com/MohammadiMH76)
 
-I am an Information Technology Engineer with a Bachelor’s degree from `Islamic Azad University Najafabad Branch`, one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
+I am an Information Technology Engineer with a Bachelor’s degree from [`Islamic Azad University Najafabad Branch`](https://iaun.iau.ir/en), one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
 
 My undergraduate thesis involved the <b>`Semantic segmentation of breast cancer pathology images using the U-Net model`</b> [[document]](https://mohammadimh76.github.io/), where I worked on improving the accuracy and efficiency of detecting and classifying cancerous tissues. This project gave me hands-on experience in <b>deep learning models</b>, particularly in <b>image processing</b> and <b>medical diagnostics</b>. It was a challenging yet rewarding experience that further fueled my passion for applying AI to healthcare and other impactful industries.
 
