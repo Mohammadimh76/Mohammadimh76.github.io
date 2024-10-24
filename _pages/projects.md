@@ -63,9 +63,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-
-```markdown
-> The best way to reach me: 
-> `m.h.mohammadimir2017[at]gmail.com`
-```
