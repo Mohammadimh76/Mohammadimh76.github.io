@@ -11,13 +11,16 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tehran, Iran</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<b>The best way to reach me:</b> `m.h.mohammadimir2017@gmail.com`
+
+[LinkedIn](https://www.linkedin.com/in/MohammadiMH76/) -- [ORCID](https://orcid.org/0000-0003-2741-7757) - [Github](https://github.com/MohammadiMH76)
 
 I am an Information Technology Engineer with a Bachelor’s degree from `Islamic Azad University Najafabad Branch`, one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
 
