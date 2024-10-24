@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     </p>ₐ Cₒₒₗ ₐₙd Fᵤₙₙy Gᵤy :)</p>
-    <p>Tehran, Iran</p>
+    <p>Isfahan, Iran</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 <b>The best way to reach me:</b> m.h.mohammadimir2017@gmail.com
 
-[[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76)
+[[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76) -- [[<b>ResearchGate</b>]](https://www.researchgate.net/profile/Mohammad-Hossein-Mohammadi-5)
 
 I am an Information Technology Engineer with a Bachelor’s degree from [`Islamic Azad University Najafabad Branch`](https://iaun.iau.ir/en), one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
 
