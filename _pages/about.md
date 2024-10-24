@@ -11,7 +11,9 @@ profile:
   more_info: >
     </p>ₐ Cₒₒₗ ₐₙd Fᵤₙₙy Gᵤy 🤪</p>
 
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 <b>The best way to reach me:</b> `m.h.mohammadimir2017[at]gmail.com`
