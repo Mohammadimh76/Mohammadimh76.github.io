@@ -5,6 +5,7 @@
 @use "sass:color";
 
 :root {
+  --global-social-icon-color: #b2b7bd;
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
@@ -42,7 +43,6 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  --global-social-icon-color: #b2b7bd;
 
   #light-toggle-system {
     padding-left: 10px;
