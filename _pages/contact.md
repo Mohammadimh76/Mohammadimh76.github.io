@@ -1,12 +1,12 @@
 ---
-layout: contact
-title: contact
+layout: page
 permalink: /contact/
+title: contact
+description:
 nav: true
 nav_order: 7
 social: true
 ---
-
 
 Mohammad Hossein Mohammadi <br />
 
