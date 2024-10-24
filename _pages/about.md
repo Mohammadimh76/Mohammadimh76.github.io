@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76)</p>
+    </p>ₐ Cₒₒₗ ₐₙd Fᵤₙₙy Gᵤy :)</p>
     <p>Tehran, Iran</p>
 
 news: true # includes a list of news items
