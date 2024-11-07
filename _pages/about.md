@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<b>The best way to reach me:</b> `m.h.mohammadimir2017[at]gmail.com` 
+<b>The best way to reach me:</b> `m.h.mohammadimir2017[at]gmail.com` - <a href="https://mohammadimh76.github.io/curriculumvitae/"><b>👉CV</b></a>
 
 [[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76) -- [[<b>ResearchGate</b>]](https://www.researchgate.net/profile/Mohammad-Hossein-Mohammadi-5)
 
