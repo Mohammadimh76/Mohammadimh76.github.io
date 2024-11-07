@@ -6,7 +6,7 @@ nav: false
 nav_order: 5
 ---
 
-[Download my CV](/assets/pdf/CourseDescription/CourseDescription_IT_IAUN.pdf)
+👉 [Download Course Description](/assets/pdf/CourseDescription/CourseDescription_IT_IAUN.pdf)
 
 <object data="/assets/pdf/CourseDescription/CourseDescription_IT_IAUN.pdf" type="application/pdf" width="100%" height="1000px">
     <embed src="/files/mattisCV.pdf">
