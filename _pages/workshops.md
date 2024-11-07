@@ -27,7 +27,7 @@ only_highlights: false
   <!-- Generate cards for each writing type -->
   <div class="list-style mx-auto">
     {%- for project in categorized_projects -%}
-      {% assets workshops.html %}
+      {% include workshops.html %}
     {%- endfor %}
   </div>
   {% endfor %}
@@ -42,7 +42,7 @@ only_highlights: false
   <!-- Generate cards for each project -->
   <div class="list-style mx-auto">
     {%- for project in sorted_projects -%}
-      {% assets workshops.html %}
+      {% include workshops.html %}
     {%- endfor %}
   </div>
 {%- endif -%}
