@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 👉 [Download my CV](/assets/pdf/CourseDescription/CourseDescription_IT_IAUN.pdf)
