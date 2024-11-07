@@ -9,4 +9,5 @@ display_categories: [workshops, competitions]
 horizontal: false
 only_highlights: false
 ---
+
 test test test
