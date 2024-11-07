@@ -1,0 +1,40 @@
+<!-- _includes/workshops.html -->
+{% if project.redirect -%}
+<a href="{{ project.redirect }}">
+    {%- else -%}
+    <a href="{{ project.url | relative_url }}">
+        {%- endif %}
+        <div class="card hoverable mb-3">
+            <div class="card-body">
+                <h5 class="card-title">{{ section.settings.heading1 }}</h5>
+                <h6 class="card-subtitle mb-2"> {{ project.outlet }} &middot; {{ project.date | date: '%B
+                    %-d, %Y' }} </h6>
+                <p class="card-text">{{ section.settings.richtext1 }}</p>
+            </div>
+        </div>
+    </a>
+
+{% schema %}
+{
+    "name": "",
+    "settings": [
+        {
+            "type": "text",
+            "id": "heading1",
+            "label": "Heading 1",
+            "default": "{{ project.title }}"
+        },
+        {
+            "type": "richtext",
+            "id": "richtext1",
+            "label": "Richtext 1",
+            "default": "<p>{{ project.description }}</p>"
+        }
+    ],
+    "presets": [
+        {
+            "name": ""
+        }
+    ]
+}
+{% endschema %}
