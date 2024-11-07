@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer - Product Designer -- T
+subtitle: Machine Learning Engineer - Product Designer 
 
 profile:
   align: right
@@ -48,5 +48,6 @@ Islamic Azad University, Najafabad Branch
 - Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model
 - Thesis Advisor: Dr.Mehdi Jabalameli
 - 📄 <a href="https://mohammadimh76.github.io/coursedescription/" target="_blank">Course Description</a>
+- curriculumvitae
 
 ---
