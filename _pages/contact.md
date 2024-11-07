@@ -12,9 +12,5 @@ nav_order: 6
 
 ---
 
-▪️ If you're interested in collaborating, please reach out via email with the subject line: *Cultivating Synergy: Proposal for Strategic Collaboration*.
-
----
-
-<p align="center">▪️ If you're interested in collaborating, please reach out via email with the subject line: <em>Cultivating Synergy: Proposal for Strategic Collaboration</em>.</p>
-
+▪️ If you're interested in collaborating, please reach out via email with the subject line<br>
+<p align="center"><em>Cultivating Synergy: Proposal for Strategic Collaboration</em></p>
