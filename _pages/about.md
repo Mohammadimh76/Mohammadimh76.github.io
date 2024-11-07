@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer - Product Designer - Product Designer
+subtitle: Machine Learning Engineer - Product Designer
 
 profile:
   align: right
