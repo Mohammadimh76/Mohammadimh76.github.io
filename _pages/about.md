@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer - Product Designer - TT
+subtitle: Machine Learning Engineer - Product Designer
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<b>The best way to reach me:</b> `m.h.mohammadimir2017[at]gmail.com` -- 👉 <a href="https://mohammadimh76.github.io/curriculumvitae/"><b>CV</b></a>
+<b>The best way to reach me:</b> `m.h.mohammadimir2017[at]gmail.com` 
 
 [[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76) -- [[<b>ResearchGate</b>]](https://www.researchgate.net/profile/Mohammad-Hossein-Mohammadi-5)
 
@@ -48,5 +48,6 @@ Islamic Azad University, Najafabad Branch
 - Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model
 - Thesis Advisor: Dr.Mehdi Jabalameli
 - 📄 <a href="https://mohammadimh76.github.io/coursedescription/" target="_blank">Course Description</a>
+- It Info
 
 ---
