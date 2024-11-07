@@ -12,5 +12,7 @@ nav_order: 6
 
 ---
 <br>
-▪️ If you're interested in collaborating, please reach out via email with the subject line<br>
-<p align="center"><em>Cultivating Synergy: Proposal for Strategic Collaboration</em></p>
+▪️ If you wish to collaborate, kindly contact me via email with the topic line<br>
+<p align="center"><em>Fostering Synergy: Proposal for Strategic Partnership</em></p>
+
+
