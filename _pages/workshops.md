@@ -39,6 +39,7 @@ nav_order: 4
   }
 </style>
 
+<br>
 
 <!-- Main container with separate hover for text only -->
 <div style="clear: both; display: flex; align-items: flex-start;">
@@ -69,7 +70,6 @@ nav_order: 4
 
 <br>
 <br>
-
 
 
 
