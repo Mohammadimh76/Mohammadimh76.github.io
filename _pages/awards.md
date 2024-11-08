@@ -6,5 +6,28 @@ nav: true
 nav_order: 4
 ---
 
-## Mohammad Hossein Mohammadi <br />
+<!-- Main container with separate hover for text only -->
+<div style="clear: both; display: flex; align-items: flex-start;">
+  <!-- Image section without hover effect -->
+  <div style="flex-shrink: 0; padding-right: 3%;">
+    <img src="/assets/img/science5.png" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
+  </div>
+  
+  <!-- Text container with hover and click functionality -->
+  <div onclick="window.open('https://www.google.com', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
+    <h4>2<sup>th</sup>Team Rank, 7th Mobile Programming Marathon honor</h4>
+    <p>
+      Honor description 2nd Team Rank, 7th Mobile Programming Marathon along with the "Chelesme" team members, 85 teams participated from Iran, the Sharif         University of Technology, Tehran, Iran.<br>
+      <i>Team members: Hadi Beigy, Mohammad Hossein Mohammadi, Seyed Ali Akbar Moeini</i>
+    </p>
+  </div>
+</div>
+
+<!-- CSS for hover effect on the text container only -->
+<style>
+  /* Hover effect on the text container only */
+  div[onclick]:hover {
+    background-color: #f0f0f0; /* Light gray background on hover */
+  }
+</style>
 
