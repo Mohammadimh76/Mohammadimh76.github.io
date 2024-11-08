@@ -19,7 +19,7 @@ only_highlights: false
   {%- for category in page.display_categories -%}
   <h2 class="category">{{ category }}</h2>
   {%- if page.only_highlights -%}
-    {%- assign categorized_projects = site.worksop | where: "highlighted", true | where: "category", category -%}
+    {%- assign categorized_projects = site.workshops | where: "highlighted", true | where: "category", category -%}
   {%- else -%}
     {%- assign categorized_projects = site.workshops | where: "category", category -%}
   {%- endif -%}
