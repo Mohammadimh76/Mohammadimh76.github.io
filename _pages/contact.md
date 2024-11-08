@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-<h6>**The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com`</h6> <br>
+<h5>The best way to reach me is through my institutional email, which is m.h.mohammadimir2017[at]gmail.com.</h5> <br>
 I look forward to talking with you!
 
 
