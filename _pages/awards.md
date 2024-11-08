@@ -10,7 +10,7 @@ nav_order: 4
 <div style="clear: both; display: flex; align-items: flex-start;">
   <!-- Image section without hover effect -->
   <div style="flex-shrink: 0; padding-right: 3%;">
-    <img src="assets/img/7th-Marathon/7th-Marathon-1.jpg" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
+    <img src="/assets/img/7th-Marathon/7th-Marathon-1.jpg" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
   </div>
   
   <!-- Text container with hover and click functionality -->
