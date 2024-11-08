@@ -18,7 +18,8 @@ nav_order: 4
     <h4>2<sup>th</sup>Team Rank, 7th Mobile Programming Marathon honor</h4>
     <p>
       Honor description 2nd Team Rank, 7th Mobile Programming Marathon along with the "Chelesme" team members, 85 teams participated from Iran, the Sharif         University of Technology, Tehran, Iran.<br>
-      <i>Team members: Hadi Beigy, Mohammad Hossein Mohammadi, Seyed Ali Akbar Moeini</i>
+      <b>Team members:</b> Hadi Beigy, Mohammad Hossein Mohammadi, Seyed Ali Akbar Moeini <br> <br>
+      [Read more]([www.google.com](https://www.google.com))
     </p>
   </div>
 </div>
