@@ -21,7 +21,7 @@ nav_order: 5
 
 <div style="clear: both;">
   <div style="float: left; padding-right: 3%;">
-    <img src="/assets/img/classes/science5.png" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
+    <img src="/assets/img/science5.png" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
   </div>
   <div>
     <h4>An introduction to computation for contemporary science</h4>
