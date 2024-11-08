@@ -6,14 +6,8 @@ nav: true
 nav_order: 6
 ---
 
-## Mohammad Hossein Mohammadi <br>
-
-### **⚠️The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com` <br>
-
----
-<br>
-▪️ If you wish to collaborate, kindly contact me via email with the subject: <b>Proposal for Collaboration</b>
-<br>
+<h6>**The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com`</h6> <br>
+I look forward to talking with you!
 
 
 <!--
