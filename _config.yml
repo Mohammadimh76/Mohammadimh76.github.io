@@ -190,6 +190,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  workshops:
+    output: true
+    permalink: /workshops/:path/
   news:
     defaults:
       layout: post
