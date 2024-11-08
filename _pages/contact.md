@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-### ⚠️The best way to reach me: `m.h.mohammadimir2017[at]gmail.com` <br>
+### ⚠️**The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com` <br>
 I look forward to talking with you!
 
 
