@@ -34,7 +34,7 @@ nav_order: 6
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
     
-    <form id="contactform" action="https://docs.google.com/forms/d/e/1FAIpQLSeWwaK0Phii8Sw8hfTHAODi4iU7183ye6FLZzuhiPbw-cbWWw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="contactform" action="https://docs.google.com/forms/d/e/1FAIpQLSeWwaK0Phii8Sw8hfTHAODi4iU7183ye6FLZzuhiPbw-cbWWw/viewform?usp=sf_link" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
           <div class="form-group">
           <label for="name">Name*</label>
           <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.2005620554" required>
