@@ -12,7 +12,7 @@ nav_order: 6
 
 ---
 <br>
-▪️ If you wish to collaborate, kindly contact me via email with the topic line<br>
-<p align="center"><em>Fostering Synergy: Proposal for Strategic Partnership</em></p>
+▪️ If you wish to collaborate, kindly contact me via email with the subject:<br>
+<p align="center"><em>Proposal for Collaboration</em></p>
 
 
