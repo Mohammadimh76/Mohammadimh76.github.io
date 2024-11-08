@@ -15,6 +15,8 @@ nav_order: 6
 ▪️ If you wish to collaborate, kindly contact me via email with the subject: <b>Proposal for Collaboration</b>
 <br>
 
+
+<!--
 <html>
   <head>
   
@@ -61,4 +63,6 @@ nav_order: 6
   </div>
   </body>
 </html>
+
+-->
 
