@@ -12,12 +12,8 @@ nav_order: 6
 
 ---
 <br>
-▪️ If you wish to collaborate, kindly contact me via email with the subject:<br>
-<p align="center"><em>Proposal for Collaboration</em></p>
-
+▪️ If you wish to collaborate, kindly contact me via email with the subject: <b>Proposal for Collaboration</b>
 <br>
-
----
 
 <html>
   <head>
