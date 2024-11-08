@@ -14,12 +14,12 @@ nav_order: 4
   </div>
   
   <!-- Text container with hover and click functionality -->
-  <div onclick="window.open('https://www.google.com', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
+  <div onclick="window.open('https://mohammadimh76.github.io/awards/7thMarathon', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
     <h4>2<sup>th</sup>Team Rank, 7th Mobile Programming Marathon honor</h4>
     <p>
       Honor description 2nd Team Rank, 7th Mobile Programming Marathon along with the "Chelesme" team members, 85 teams participated from Iran, the Sharif         University of Technology, Tehran, Iran.<br>
       <b>Team members:</b> Hadi Beigy, Mohammad Hossein Mohammadi, Seyed Ali Akbar Moeini <br> <br>
-      <a href="https://www.google.com" target="_blank" style="color: #0073e6; text-decoration: underline;" onclick="event.stopPropagation();">[Read more]</a>.
+      <a href="https://mohammadimh76.github.io/awards/7thMarathon" target="_blank" style="color: #0073e6; text-decoration: underline;" onclick="event.stopPropagation();">[Read more]</a>.
     </p>
   </div>
 </div>
