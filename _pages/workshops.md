@@ -13,35 +13,51 @@ nav_order: 4
 <br>
 <br>
 
-<!-- Wrap the table inside an anchor tag without nested links -->
-<a href="https://www.google.com" target="_blank" style="text-decoration: none; color: inherit;">
-  <table rules="none" style="cursor: pointer; width: 100%;">
-    <tr>
-      <td width="180">
-        <img src="/assets/img/science5.png" width="150" />
-      </td>
-      <td width="600">
-        <font size="4">
-          <b>Dr. Chuntao Ding</b> (丁春涛)<br />
-          Research Interests: <i>Edge Intelligence, Neural Network Model Compression and Quantization, Software and Hardware Adaptation</i><br />
-          <!-- Use spans to show text, but handle these as links separately if needed -->
-          <span style="color: #0073e6;">[Email]</span>
-          <span style="color: #0073e6;">[Google Scholar]</span>
-          <span style="color: #0073e6;">[DBLP]</span>
-        </font>
-      </td>
-    </tr>
-  </table>
-</a>
 
-<!-- Hover Effect for Entire Table -->
+<!-- Principal Investigator -->
+<table rules="none" id="clickable-table" style="cursor: pointer;">
+  <tr>
+    <td width="180">
+      <img src="/assets/img/science5.png" width="150" />
+    </td>
+    <td width="600">
+      <font size="4">
+        <b>Dr. Chuntao Ding</b> (丁春涛)<br />
+        Research Interests: <i>Edge Intelligence, Neural Network Model Compression and Quantization, Software and Hardware Adaptation</i> <br />
+        <a href="mailto:chuntaoding@163.com">[Email] </a>
+        <a href="https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
+        <a href="https://dblp.org/pid/150/4003.html">[DBLP] </a>
+      </font>
+    </td>
+  </tr>
+</table>
+
+<!-- JavaScript to handle the click event -->
+<script>
+  document.getElementById("clickable-table").addEventListener("click", function() {
+    window.location.href = "https://www.google.com";
+  });
+</script>
+
+<!-- Style for hover effect -->
 <style>
-  a:hover table {
+  #clickable-table:hover {
     background-color: #f0f0f0; /* Light gray background on hover */
     transition: background-color 0.3s;
   }
-
-  a:hover td {
-    color: #0073e6;
+  
+  #clickable-table:hover font, #clickable-table:hover td {
+    color: #0073e6; /* Change text color on hover */
   }
 </style>
+
+
+
+
+
+
+
+
+
+
+
