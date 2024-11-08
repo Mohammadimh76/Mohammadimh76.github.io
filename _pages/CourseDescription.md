@@ -36,40 +36,29 @@ nav_order: 5
 ---
 
 <br>
-<br>
 
-<!-- Wrap the content in an outer anchor link -->
-<a href="https://www.google.com" target="_blank" style="text-decoration: none; color: inherit; display: block;">
-  <div style="clear: both; padding: 10px; transition: background-color 0.3s;">
+<!-- Wrap the entire content inside a div that will be clickable -->
+<div onclick="window.open('https://www.google.com', '_blank')" style="text-decoration: none; color: inherit;">
+  <div style="clear: both; padding: 10px; transition: background-color 0.3s; cursor: pointer;">
     <div style="float: left; padding-right: 3%;">
       <img src="/assets/img/science5.png" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
     </div>
     <div>
       <h4>An introduction to computation for contemporary science</h4>
-      <p>From climate change to COVID, computation is an essential element of modern science. It allows us to find insights in a sea of data, ask principled questions about the future, and perform experiments without a laboratory. In this class, we’ll learn the practice of Python programming and quantitative questioning through both data-driven and model-oriented case studies focused on the earth, the universe, and living systems. Taught with 
-      <!-- Keep the inner link separate -->
-      <a href="https://eps.harvard.edu/people/jeremy-bloxham" target="_blank" style="color: #0073e6; text-decoration: underline;">Jeremy Bloxham.</a>
+      <p>
+        From climate change to COVID, computation is an essential element of modern science. It allows us to find insights in a sea of data, ask principled questions about the future, and perform experiments without a laboratory. In this class, we’ll learn the practice of Python programming and quantitative questioning through both data-driven and model-oriented case studies focused on the earth, the universe, and living systems. Taught with 
+        <!-- Inner link with event handling to prevent click propagation -->
+        <a href="https://eps.harvard.edu/people/jeremy-bloxham" target="_blank" style="color: #0073e6; text-decoration: underline;" onclick="event.stopPropagation();">Jeremy Bloxham</a>.
       </p>
     </div>
   </div>
-</a>
+</div>
 
-<!-- Add hover effect styles -->
+<!-- CSS for hover effect -->
 <style>
-  /* Background color change on hover */
-  a:hover > div {
-    background-color: #f0f0f0; /* Light gray */
-  }
-  
-  /* Ensure the outer link hover color doesn't affect inner link */
-  a > div p a {
-    color: #0073e6; /* Inner link color */
-    text-decoration: underline; /* Inner link underline */
-  }
-
-  /* Prevent pointer cursor for the inner link */
-  a > div p a:hover {
-    cursor: pointer;
+  /* Change background color of the div on hover */
+  div[onclick]:hover {
+    background-color: #f0f0f0; /* Light gray background on hover */
   }
 </style>
 
