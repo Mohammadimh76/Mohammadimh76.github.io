@@ -192,7 +192,7 @@ newsletter:
 collections:
   workshops:
     output: true
-    permalink: /workshops/:path/
+    permalink: /:collection/:title/
   news:
     defaults:
       layout: post
