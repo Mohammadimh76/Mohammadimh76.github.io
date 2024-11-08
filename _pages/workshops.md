@@ -13,43 +13,35 @@ nav_order: 4
 <br>
 <br>
 
-
-<!-- Principal Investigator -->
-<table rules="none" id="clickable-table" style="cursor: pointer;">
-  <tr>
-    <td width="180">
-      <img src="/assets/img/science5.png" width="150" />
-    </td>
-    <td width="600">
-      <font size="4">
-        <b>Dr. Chuntao Ding</b> (丁春涛)<br />
-        Research Interests: <i>Edge Intelligence, Neural Network Model Compression and Quantization, Software and Hardware Adaptation</i> <br />
-        <a href="mailto:chuntaoding@163.com">[Email] </a>
-        <a href="https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
-        <a href="https://dblp.org/pid/150/4003.html">[DBLP] </a>
-      </font>
-    </td>
-  </tr>
-</table>
-
-<!-- JavaScript to handle the click event -->
-<script>
-  document.getElementById("clickable-table").addEventListener("click", function() {
-    window.location.href = "https://www.google.com";
-  });
-</script>
-
-<!-- Style for hover effect -->
-<style>
-  #clickable-table:hover {
-    background-color: #f0f0f0; /* Light gray background on hover */
-    transition: background-color 0.3s;
-  }
+<!-- Main container with separate hover for text only -->
+<div style="clear: both; display: flex; align-items: flex-start;">
+  <!-- Image section without hover effect -->
+  <div style="flex-shrink: 0; padding-right: 3%;">
+    <img src="/assets/img/science5.png" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
+  </div>
   
-  #clickable-table:hover font, #clickable-table:hover td {
-    color: #0073e6; /* Change text color on hover */
+  <!-- Text container with hover and click functionality -->
+  <div onclick="window.open('https://www.google.com', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
+    <h4>An introduction to computation for contemporary science</h4>
+    <p>
+      From climate change to COVID, computation is an essential element of modern science. It allows us to find insights in a sea of data, ask principled questions about the future, and perform experiments without a laboratory. In this class, we’ll learn the practice of Python programming and quantitative questioning through both data-driven and model-oriented case studies focused on the earth, the universe, and living systems. Taught with 
+      <!-- Inner link that prevents outer link from activating on click -->
+      <a href="https://eps.harvard.edu/people/jeremy-bloxham" target="_blank" style="color: #0073e6; text-decoration: underline;" onclick="event.stopPropagation();">Jeremy Bloxham</a>.
+    </p>
+  </div>
+</div>
+
+<!-- CSS for hover effect on the text container only -->
+<style>
+  /* Hover effect on the text container only */
+  div[onclick]:hover {
+    background-color: #f0f0f0; /* Light gray background on hover */
   }
 </style>
+
+
+<br>
+<br>
 
 
 
