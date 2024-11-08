@@ -72,7 +72,7 @@ nav_order: 4
   </div>
   
   <!-- Text container with hover and click functionality -->
-  <div onclick="window.open('https://mohammadimh76.github.io/awards/', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
+  <div onclick="window.open('https://mohammadimh76.github.io/awards/')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
     <h4>Iran National Organization of Educational Testing</h4>
     <h6>June, 1, 2015</h6>
     <p>
