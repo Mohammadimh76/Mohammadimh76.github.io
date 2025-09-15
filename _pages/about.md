@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <center>a Cool anD Funny Guy 🤪</center>
+      <center>Hard Working</center>
       <center>
           <a href="https://www.linkedin.com/in/mohammadimh76">LinkedIn</a> | 
           <a href="https://github.com/mohammadimh76">GitHub</a> |
