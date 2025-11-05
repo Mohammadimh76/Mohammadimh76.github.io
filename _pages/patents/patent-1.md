@@ -19,7 +19,7 @@ tikzjax: true
 typograms: true
 
 toc:
-  - name: Technical Field of the Invention
+  - name: Technical_Field_of_the_Invention
   - name: Technical Problem and Invention Objectives
     - name: Understanding Heterochromia
     - name: Anatomical Structure
