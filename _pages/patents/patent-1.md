@@ -18,12 +18,15 @@ nav_order: 5
 | International Patent Classification	 | A61B 5/00 |
 | Validity Status	 | Valid |
 
+<br>
 
 ## Technical Field of the Invention
 Medicine and Ophthalmology: This innovation is designed and implemented to improve the accuracy and performance of physicians and ophthalmologists, with clear applications in this field.<br>
 Biomedical Engineering: This idea utilizes biomedical engineering sciences to enhance and support diagnostic and therapeutic methods, serving as a bridge between engineering and medicine for design optimization.<br>
 Electrical and Computer Engineering: The device incorporates electronics and artificial intelligence from computer engineering in various system components.<br>
 Mechanical Engineering: Mechanical engineering principles are applied in designing the body, casing, covers, and system molds.<br>
+
+<br>
 
 ## Technical Problem and Invention Objectives
 
@@ -70,7 +73,7 @@ This innovation develops a precise system using engineering sciences to:
 
 By achieving early detection with high accuracy during infancy, this system helps treat underlying conditions and prevents the progression and complications arising from undiagnosed heterochromia.
 
----
+<br>
 
 ## Prior Art and Background of Related Advancements
 
