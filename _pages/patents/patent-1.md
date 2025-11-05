@@ -20,10 +20,6 @@ typograms: true
 
 toc:
   - name: Technical Field of the Invention
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
   - name: Technical Problem and Invention Objectives
     - name: Understanding Heterochromia
     - name: Anatomical Structure
