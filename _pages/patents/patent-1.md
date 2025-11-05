@@ -4,6 +4,23 @@ permalink: /patents/patent1
 title: The system for early detection of heterochromia disease in the neonates
 nav: false
 nav_order: 5
+toc:
+  - name: Technical Field of the Invention
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Technical Problem and Invention Objectives
+    - name: Understanding Heterochromia
+    - name: Anatomical Structure
+    - name: Types and Causes
+    - name: Innovation Objectives
+  - name: Prior Art and Background of Related Advancements
+    - name: Advanced Imaging Technologies
+    - name: Major Retinal Diseases
+    - name: Retinal Imaging Methods
+    - name: OCT Image Processing Approaches
+    - name: Current Limitations and Innovation Need
 ---
 
 
