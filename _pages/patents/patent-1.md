@@ -7,11 +7,11 @@ nav_order: 5
 related_posts: false
 toc:
   sidebar: left
+pretty_table: true
 ---
 
-
 | Title |  The system for early detection of heterochromia disease in the neonates |
-| ------------ | ------------ |
+| :----------- | :------------ |
 | Application Number	 | 1398501400003011312 |
 | Application Filing Date	 | 2020/03/04 |
 | Registration Number	 | 104189 |
@@ -24,12 +24,6 @@ toc:
 ---
 
 ## Technical Field of the Invention
-
-```yml
-toc:
-  sidebar: left
-```
-
 Medicine and Ophthalmology: This innovation is designed and implemented to improve the accuracy and performance of physicians and ophthalmologists, with clear applications in this field.<br>
 Biomedical Engineering: This idea utilizes biomedical engineering sciences to enhance and support diagnostic and therapeutic methods, serving as a bridge between engineering and medicine for design optimization.<br>
 Electrical and Computer Engineering: The device incorporates electronics and artificial intelligence from computer engineering in various system components.<br>
