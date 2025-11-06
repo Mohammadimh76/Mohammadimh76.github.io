@@ -4,6 +4,18 @@ permalink: /patents/patent1
 title: The system for early detection of heterochromia disease in the neonates
 nav: false
 nav_order: 5
+featured: true
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true
 toc:
   - name: Technical Field of the Invention
   - name: Technical Problem and Invention Objectives
