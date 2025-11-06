@@ -35,13 +35,6 @@ Vision is one of the most important special senses, not only because it plays a 
 
 {% tab info-tabs Appendices %}
 
-| Appendices |  Click here to download the file |  Click here to download the file |
-| :----------- | :------------ | :------------: |
-| Description:	 | English Version | Persian Version |
-| Claims:	 | English Version | Persian Version |
-| Drawings:	 | English Version | Persian Version |
-| Evaluation Report:	 | English Version | Persian Version |
-
 <table>
   <thead>
     <tr>
