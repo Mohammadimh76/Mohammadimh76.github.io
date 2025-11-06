@@ -4,22 +4,9 @@ permalink: /patents/patent1
 title: The system for early detection of heterochromia disease in the neonates
 nav: false
 nav_order: 5
-featured: true
-mermaid:
-  enabled: true
-  zoomable: true
-code_diff: true
-map: true
-chart:
-  chartjs: true
-  echarts: true
-  vega_lite: true
-tikzjax: true
-typograms: true
+related_posts: false
 toc:
-  - name: Technical Field of the Invention
-  - name: Technical Problem and Invention Objectives
-  - name: Prior Art and Background of Related Advancements
+  sidebar: left
 ---
 
 
@@ -37,6 +24,12 @@ toc:
 ---
 
 ## Technical Field of the Invention
+
+```yml
+toc:
+  sidebar: left
+```
+
 Medicine and Ophthalmology: This innovation is designed and implemented to improve the accuracy and performance of physicians and ophthalmologists, with clear applications in this field.<br>
 Biomedical Engineering: This idea utilizes biomedical engineering sciences to enhance and support diagnostic and therapeutic methods, serving as a bridge between engineering and medicine for design optimization.<br>
 Electrical and Computer Engineering: The device incorporates electronics and artificial intelligence from computer engineering in various system components.<br>
@@ -46,6 +39,10 @@ Mechanical Engineering: Mechanical engineering principles are applied in designi
 
 ## Technical Problem and Invention Objectives
 
+```yml
+toc:
+  sidebar: left
+```
 Vision is one of the most important special senses, not only because it plays a crucial role in connecting us with the external environment, but also because visual impairment can significantly reduce learning capabilities. While diseases like diabetes and cardiovascular conditions have the highest prevalence rates, eye diseases remain among the most significant health issues affecting many individuals.<br>
 Many eye diseases, if left untreated (especially during childhood), can lead to blindness and cause irreversible problems, creating numerous limitations in patients’ personal and social lives. Therefore, early identification and diagnosis of diseases has always been crucial. This invention aims to achieve early detection of such conditions while emphasizing preventive strategies to identify diseases and their underlying risk factors.<br>
 
