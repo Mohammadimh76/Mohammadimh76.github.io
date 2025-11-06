@@ -35,12 +35,43 @@ Vision is one of the most important special senses, not only because it plays a 
 
 {% tab info-tabs Appendices %}
 
-| |  Appendices |
-| :----------- | :------------ |
-| Description:	 | Click here to download the file |
-| Claims:	 | Click here to download the file |
-| Drawings:	 | Click here to download the file |
-| Evaluation Report:	 | Click here to download the file |
+| Appendices |  Click here to download the file |  Click here to download the file |
+| :----------- | :------------ | :------------: |
+| Description:	 | English Version | Persian Version |
+| Claims:	 | English Version | Persian Version |
+| Drawings:	 | English Version | Persian Version |
+| Evaluation Report:	 | English Version | Persian Version |
+
+<table>
+  <thead>
+    <tr>
+      <th>Appendices</th>
+      <th colspan="2">Click here to download the file</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Description:</td>
+      <td>English Version</td>
+      <td>Persian Version</td>
+    </tr>
+    <tr>
+      <td>Claims:</td>
+      <td>English Version</td>
+      <td>Persian Version</td>
+    </tr>
+    <tr>
+      <td>Drawings:</td>
+      <td>English Version</td>
+      <td>Persian Version</td>
+    </tr>
+    <tr>
+      <td>Evaluation Report:</td>
+      <td>English Version</td>
+      <td>Persian Version</td>
+    </tr>
+  </tbody>
+</table>
 
 {% endtab %}
 
