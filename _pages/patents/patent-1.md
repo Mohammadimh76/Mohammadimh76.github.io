@@ -7,16 +7,7 @@ nav_order: 5
 toc:
   - name: Technical Field of the Invention
   - name: Technical Problem and Invention Objectives
-    - name: Understanding Heterochromia
-    - name: Anatomical Structure
-    - name: Types and Causes
-    - name: Innovation Objectives
   - name: Prior Art and Background of Related Advancements
-    - name: Advanced Imaging Technologies
-    - name: Major Retinal Diseases
-    - name: Retinal Imaging Methods
-    - name: OCT Image Processing Approaches
-    - name: Current Limitations and Innovation Need
 ---
 
 
