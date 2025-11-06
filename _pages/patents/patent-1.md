@@ -46,22 +46,22 @@ Vision is one of the most important special senses, not only because it plays a 
     <tr>
       <td>Description:</td>
       <td>English Version</td>
-      <td>Persian Version</td>
+      <td>[Persian Version](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/pdf/Patents/Heterochromia/Description.pdf)</td>
     </tr>
     <tr>
       <td>Claims:</td>
       <td>English Version</td>
-      <td>Persian Version</td>
+      <td>[Persian Version](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/pdf/Patents/Heterochromia/Claims.pdf)</td>
     </tr>
     <tr>
       <td>Drawings:</td>
       <td>English Version</td>
-      <td>Persian Version</td>
+      <td>[Persian Version](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/pdf/Patents/Heterochromia/Drawings.pdf)</td>
     </tr>
     <tr>
       <td>Evaluation Report:</td>
       <td>English Version</td>
-      <td>Persian Version</td>
+      <td>[Persian Version](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/pdf/Patents/Heterochromia/Evaluation Report.pdf)</td>
     </tr>
   </tbody>
 </table>
