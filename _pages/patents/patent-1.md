@@ -7,8 +7,12 @@ nav_order: 5
 related_posts: false
 toc:
   sidebar: left
-pretty_table: true
+tabs: true
 ---
+
+{% tabs something-else %}
+
+{% tab something-else Information %}
 
 | Title |  The system for early detection of heterochromia disease in the neonates |
 | :----------- | :------------ |
@@ -20,6 +24,28 @@ pretty_table: true
 | Inventor(s)	 | Seyed Hossein Moradi, Mohammad Hossein Mohammadi |
 | International Patent Classification	 | A61B 5/00 |
 | Validity Status	 | Valid |
+
+{% endtab %}
+
+{% tab something-else Summary %}
+
+Vision is one of the most important special senses, not only because it plays a crucial role in interacting with the external environment, but also because many eye diseases, if not treated in time (especially in childhood), can lead to blindness and cause irreversible problems for affected individuals, creating numerous limitations in their personal and social lives. Given this, early identification and diagnosis of diseases has always been of great importance, and one of the objectives of this invention is the early detection of heterochromia disease during infancy. The preventive policy of this idea is very important, as this feature takes steps toward predicting and identifying diseases and underlying factors of the aforementioned condition. This idea presents a new method for providing, examining, and diagnosing color changes in the irises of the eyes and the degree of matching, uniformity, and color consistency in all parts of the iris, and more specifically for measuring and diagnosing heterochromia of the eye during infancy and at an early stage to prevent progression and inhibit the activity and advancement of underlying and related diseases. Its main principles are based on processing images and videos obtained from the eye, and according to the output from artificial intelligence algorithms, it examines the percentage of similarity between the irises of the eyes in terms of all color parameters including color type, intensity, matching, uniformity, etc. In other words, this device is designed to predict or diagnose heterochromia disease and its related diseases in infants.
+
+{% endtab %}
+
+{% tab something-else Appendices %}
+
+|  |  Appendices |
+| :----------- | :------------ |
+| Description:	 | Click here to download the file |
+| Claims:	 | Click here to download the file |
+| Drawings:	 | Click here to download the file |
+| Evaluation Report:	 | Click here to download the file |
+
+{% endtab %}
+
+{% endtabs %}
+
 
 ---
 
