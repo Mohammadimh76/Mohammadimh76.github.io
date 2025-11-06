@@ -38,11 +38,6 @@ Mechanical Engineering: Mechanical engineering principles are applied in designi
 ---
 
 ## Technical Problem and Invention Objectives
-
-```yml
-toc:
-  sidebar: left
-```
 Vision is one of the most important special senses, not only because it plays a crucial role in connecting us with the external environment, but also because visual impairment can significantly reduce learning capabilities. While diseases like diabetes and cardiovascular conditions have the highest prevalence rates, eye diseases remain among the most significant health issues affecting many individuals.<br>
 Many eye diseases, if left untreated (especially during childhood), can lead to blindness and cause irreversible problems, creating numerous limitations in patients’ personal and social lives. Therefore, early identification and diagnosis of diseases has always been crucial. This invention aims to achieve early detection of such conditions while emphasizing preventive strategies to identify diseases and their underlying risk factors.<br>
 
