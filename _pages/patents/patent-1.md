@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /patents/patent1
 title: The system for early detection of heterochromia disease in the neonates
 nav: false
