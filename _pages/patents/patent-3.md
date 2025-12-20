@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent3
-title: patent3
+title: patent312
 nav: false
 nav_order: 5
 related_posts: false
@@ -59,7 +59,7 @@ Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisunter
 {% endtab %}
 
 {% tab language-tabs-p3 Persian %}
-<div dir="rtl">
+<div class="rtl-tab">
 اکثر سیستم‌های موجود برای معاینه شبکیه طراحی شده‌اند، در حالی که برخی دیگر بر قرنیه یا عدسی تمرکز دارند. این سیستم‌ها عموماً:
 - فاقد دقت کافی
 - دارای پتانسیل خطای انسانی
@@ -74,6 +74,7 @@ Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisunter
 این نوآوری نیاز حیاتی به یک سیستم معاینه عنبیه اختصاصی با قابلیت‌های تشخیص زودهنگام را برطرف می‌کند و شکاف موجود در فناوری تشخیصی چشم‌پزشکی فعلی را پر می‌کند.
 </div>
 {% endtab %}
+
 
 {% endtabs %}
 
