@@ -24,6 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+scss
 @font-face {
   font-family: "Shabnam";
   src: url("/assets/fonts/Shabnam.woff2") format("woff2");
@@ -32,6 +33,7 @@ $max-content-width: {{ site.max_width }};
   font-display: swap;
 }
 
+scss
 .rtl-tab {
   direction: rtl;
   text-align: right;
