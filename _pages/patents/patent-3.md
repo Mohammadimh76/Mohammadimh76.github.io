@@ -6,10 +6,9 @@ nav: false
 nav_order: 5
 ---
 
-{% tabs info-tabs %}
+{% tabs language-tabs %}
 
-{% tab info-tabs English %}
-
+{% tab language-tabs English %}
 Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:
 - Lack adequate precision
 - Contain human error potential
@@ -22,11 +21,9 @@ This has driven the development of our specialized system that:
 - Provides high-precision measurements for iris-related conditions
 
 The innovation addresses the critical need for a dedicated iris examination system with early detection capabilities, filling a gap in current ophthalmic diagnostic technology.
-
 {% endtab %}
 
-{% tab info-tabs French %}
-
+{% tab language-tabs French %}
 La plupart des systèmes existants sont conçus pour l'examen de la rétine, tandis que d'autres se concentrent sur la cornée ou le cristallin. Ces systèmes présentent généralement les caractéristiques suivantes :
 
 - Manque de précision
@@ -41,11 +38,9 @@ C'est pourquoi nous avons développé notre système spécialisé qui :
 - Fournit des mesures de haute précision pour les affections de l'iris
 
 Cette innovation répond à un besoin crucial : celui d'un système d'examen de l'iris dédié au dépistage précoce, comblant ainsi une lacune dans les technologies de diagnostic ophtalmique actuelles.
-
 {% endtab %}
 
-{% tab info-tabs Germany %}
-
+{% tab language-tabs Germany %}
 Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:
 
 - Unzureichende Präzision
@@ -59,13 +54,10 @@ Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:
 - Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht
 
 Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisuntersuchungssystem mit Früherkennungsfunktion und schließt eine Lücke in der aktuellen ophthalmologischen Diagnosetechnologie.
-
 {% endtab %}
 
-{% tab info-tabs Persian %}
-
+{% tab language-tabs Persian %}
 <div dir="rtl">
-
 اکثر سیستم‌های موجود برای معاینه شبکیه طراحی شده‌اند، در حالی که برخی دیگر بر قرنیه یا عدسی تمرکز دارند. این سیستم‌ها عموماً:
 - فاقد دقت کافی
 - دارای پتانسیل خطای انسانی
@@ -77,8 +69,8 @@ Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisunter
 - از طریق الگوریتم‌های پیشرفته خطای انسانی را کاهش می‌دهد
 - اندازه‌گیری‌های با دقت بالا را برای شرایط مرتبط با عنبیه ارائه می‌دهد
 
-این نوآوری نیاز حیاتی به یک سیستم معاینه عنبیه اختصاصی با قابلیت‌های تشخیص زودهنگام را برطرف می‌کند و شکاف موجود در فناوری تشخیصی چشم پزشکی فعلی را پر می‌کند.
-
+این نوآوری نیاز حیاتی به یک سیستم معاینه عنبیه اختصاصی با قابلیت‌های تشخیص زودهنگام را برطرف می‌کند و شکاف موجود در فناوری تشخیصی چشم‌پزشکی فعلی را پر می‌کند.
+</div>
 {% endtab %}
 
 {% endtabs %}
