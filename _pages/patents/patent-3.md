@@ -6,9 +6,9 @@ nav: false
 nav_order: 5
 ---
 
-{% tabs language-tabs %}
+{% tabs language-tabs-p3 %}
 
-{% tab language-tabs English %}
+{% tab language-tabs-p3 English %}
 Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:
 - Lack adequate precision
 - Contain human error potential
@@ -23,7 +23,7 @@ This has driven the development of our specialized system that:
 The innovation addresses the critical need for a dedicated iris examination system with early detection capabilities, filling a gap in current ophthalmic diagnostic technology.
 {% endtab %}
 
-{% tab language-tabs French %}
+{% tab language-tabs-p3 French %}
 La plupart des systèmes existants sont conçus pour l'examen de la rétine, tandis que d'autres se concentrent sur la cornée ou le cristallin. Ces systèmes présentent généralement les caractéristiques suivantes :
 
 - Manque de précision
@@ -40,7 +40,7 @@ C'est pourquoi nous avons développé notre système spécialisé qui :
 Cette innovation répond à un besoin crucial : celui d'un système d'examen de l'iris dédié au dépistage précoce, comblant ainsi une lacune dans les technologies de diagnostic ophtalmique actuelles.
 {% endtab %}
 
-{% tab language-tabs Germany %}
+{% tab language-tabs-p3 Germany %}
 Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:
 
 - Unzureichende Präzision
@@ -54,23 +54,6 @@ Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:
 - Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht
 
 Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisuntersuchungssystem mit Früherkennungsfunktion und schließt eine Lücke in der aktuellen ophthalmologischen Diagnosetechnologie.
-{% endtab %}
-
-{% tab language-tabs Persian %}
-<div dir="rtl">
-اکثر سیستم‌های موجود برای معاینه شبکیه طراحی شده‌اند، در حالی که برخی دیگر بر قرنیه یا عدسی تمرکز دارند. این سیستم‌ها عموماً:
-- فاقد دقت کافی
-- دارای پتانسیل خطای انسانی
-- برای معاینه عنبیه تخصصی نیستند
-
-این امر منجر به توسعه سیستم تخصصی ما شده است که:
-- قابلیت‌های تشخیص زودهنگام را فراهم می‌کند
-- به طور خاص برای مطالعات عنبیه طراحی شده است
-- از طریق الگوریتم‌های پیشرفته خطای انسانی را کاهش می‌دهد
-- اندازه‌گیری‌های با دقت بالا را برای شرایط مرتبط با عنبیه ارائه می‌دهد
-
-این نوآوری نیاز حیاتی به یک سیستم معاینه عنبیه اختصاصی با قابلیت‌های تشخیص زودهنگام را برطرف می‌کند و شکاف موجود در فناوری تشخیصی چشم‌پزشکی فعلی را پر می‌کند.
-</div>
 {% endtab %}
 
 {% endtabs %}
