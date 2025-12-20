@@ -58,6 +58,23 @@ Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:
 Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisuntersuchungssystem mit Früherkennungsfunktion und schließt eine Lücke in der aktuellen ophthalmologischen Diagnosetechnologie.
 {% endtab %}
 
+{% tab language-tabs-p3 Persian %}
+<div dir="rtl">
+اکثر سیستم‌های موجود برای معاینه شبکیه طراحی شده‌اند، در حالی که برخی دیگر بر قرنیه یا عدسی تمرکز دارند. این سیستم‌ها عموماً:
+- فاقد دقت کافی
+- دارای پتانسیل خطای انسانی
+- برای معاینه عنبیه تخصصی نیستند
+
+این امر منجر به توسعه سیستم تخصصی ما شده است که:
+- قابلیت‌های تشخیص زودهنگام را فراهم می‌کند
+- به طور خاص برای مطالعات عنبیه طراحی شده است
+- از طریق الگوریتم‌های پیشرفته خطای انسانی را کاهش می‌دهد
+- اندازه‌گیری‌های با دقت بالا را برای شرایط مرتبط با عنبیه ارائه می‌دهد
+
+این نوآوری نیاز حیاتی به یک سیستم معاینه عنبیه اختصاصی با قابلیت‌های تشخیص زودهنگام را برطرف می‌کند و شکاف موجود در فناوری تشخیصی چشم‌پزشکی فعلی را پر می‌کند.
+</div>
+{% endtab %}
+
 {% endtabs %}
 
 
