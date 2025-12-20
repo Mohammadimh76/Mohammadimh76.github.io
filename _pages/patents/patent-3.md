@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /patents/patent3
-title: patent32
+title: patent324
 nav: false
 nav_order: 5
+related_posts: false
+tabs: true
 ---
 
 {% tabs language-tabs-p3 %}
