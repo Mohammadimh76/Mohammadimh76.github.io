@@ -13,7 +13,7 @@ tabs: true
 
 {% tab language-tabs-p3 English %}
 {% capture lang_en -%}
-{% include_relative content/patent3/en.md %}
+{% include_relative content/patent2/en.md %}
 {%- endcapture %}
 {{ lang_en | markdownify }}
 {% endtab %}
