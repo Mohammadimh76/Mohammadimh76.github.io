@@ -3,7 +3,7 @@
 
 {% tabs info-tabs-fa %}
 
-{% tab info-tabs-fa Information active="true" %}
+{% tab info-tabs-fa Information active=true %}
 
 | Title |  The system for early detection of heterochromia disease in the neonates |
 | :----------- | :------------ |
@@ -31,4 +31,5 @@
 
 
 </div>
+
 
