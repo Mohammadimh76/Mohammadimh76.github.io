@@ -6,7 +6,7 @@
 
 {% tabs info-tabs %}
 
-{% tab info-tabs Information %}
+{% tab info-tabs Information active="true" %}
 
 | Title |  The system for early detection of heterochromia disease in the neonates |
 | :----------- | :------------ |
@@ -64,3 +64,4 @@ Vision is one of the most important special senses, not only because it plays a 
 
 
 {% endtabs %}
+
