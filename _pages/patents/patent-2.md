@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent2
-title: Test01
+title: The system for early detection of heterochromia disease in the neonat
 nav: false
 nav_order: 5
 related_posts: false
@@ -11,21 +11,25 @@ toc:
 ---
 
 
+{% tabs language-tabs-p3 %}
+
 {% tab language-tabs-p3 English %}
 {% capture lang_en -%}
 {% include_relative content/patent2/en.md %}
 {%- endcapture %}
-{{ lang_en }}
+{{ lang_en | markdownify }}
 {% endtab %}
 
 {% tab language-tabs-p3 Persian %}
-<div class="rtl-tab" markdown="1">
+<div class="rtl-tab">
 {% capture lang_fa -%}
 {% include_relative content/patent2/fa.md %}
 {%- endcapture %}
-{{ lang_fa }}
+{{ lang_fa | markdownify }}
 </div>
 {% endtab %}
+
+{% endtabs %}
 
 
 
