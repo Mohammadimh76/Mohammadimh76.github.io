@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent3
-title: patent75
+title: patent85
 nav: false
 nav_order: 5
 related_posts: false
