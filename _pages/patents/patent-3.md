@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent3
-title: patent123new
+title: patent56
 nav: false
 nav_order: 5
 related_posts: false
@@ -11,49 +11,44 @@ tabs: true
 {% tabs language-tabs-p3 %}
 
 {% tab language-tabs-p3 English %}
-Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:✈️📌
+
+> ##### WARNING
+>
+> Note: This content was originally written in Persian and translated into English using AI. Minor inaccuracies may exist.
+{: .block-warning }
+
+Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:<br>
 - Lack adequate precision
 - Contain human error potential
-- Are not specialized for iris examination
+- Are not specialized for iris examination<br>
 
-This has driven the development of our specialized system that:
+This has driven the development of our specialized system that:<br>
 - Enables early detection capabilities
 - Is specifically designed for iris studies
 - Reduces human error through advanced algorithms
-- Provides high-precision measurements for iris-related conditions
+- Provides high-precision measurements for iris-related conditions<br>
 
 The innovation addresses the critical need for a dedicated iris examination system with early detection capabilities, filling a gap in current ophthalmic diagnostic technology.
-{% endtab %}
 
-{% tab language-tabs-p3 French %}
-La plupart des systèmes existants sont conçus pour l'examen de la rétine, tandis que d'autres se concentrent sur la cornée ou le cristallin. Ces systèmes présentent généralement les caractéristiques suivantes :
-
-- Manque de précision
-- Risque d'erreur humaine
-- Ne sont pas adaptés à l'examen de l'iris
-
-C'est pourquoi nous avons développé notre système spécialisé qui :
-
-- Permet un dépistage précoce
-- Est spécifiquement conçu pour l'étude de l'iris
-- Réduit les erreurs humaines grâce à des algorithmes avancés
-- Fournit des mesures de haute précision pour les affections de l'iris
-
-Cette innovation répond à un besoin crucial : celui d'un système d'examen de l'iris dédié au dépistage précoce, comblant ainsi une lacune dans les technologies de diagnostic ophtalmique actuelles.
 {% endtab %}
 
 {% tab language-tabs-p3 Germany %}
-Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:
 
+> ##### WARNING
+>
+> Hinweis: Dieser Inhalt wurde ursprünglich auf Persisch verfasst und mithilfe von KI ins Deutsche übersetzt. Geringe Ungenauigkeiten sind möglich.
+{: .block-warning }
+
+Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:<br>
 - Unzureichende Präzision
 - Hohes Fehlerrisiko
-- Keine Spezialisierung auf die Irisuntersuchung
+- Keine Spezialisierung auf die Irisuntersuchung<br>
 
-Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:
+Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:<br>
 - Früherkennung ermöglicht
 - Speziell für Irisuntersuchungen entwickelt wurde
 - Menschliche Fehler durch fortschrittliche Algorithmen reduziert
-- Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht
+- Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht<br>
 
 Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisuntersuchungssystem mit Früherkennungsfunktion und schließt eine Lücke in der aktuellen ophthalmologischen Diagnosetechnologie.
 {% endtab %}
