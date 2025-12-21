@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent3
-title: patent56
+title: patent55
 nav: false
 nav_order: 5
 related_posts: false
@@ -17,16 +17,18 @@ tabs: true
 > Note: This content was originally written in Persian and translated into English using AI. Minor inaccuracies may exist.
 {: .block-warning }
 
-Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:<br>
+Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:
 - Lack adequate precision
 - Contain human error potential
 - Are not specialized for iris examination<br>
+
 
 This has driven the development of our specialized system that:<br>
 - Enables early detection capabilities
 - Is specifically designed for iris studies
 - Reduces human error through advanced algorithms
-- Provides high-precision measurements for iris-related conditions<br>
+- Provides high-precision measurements for iris-related conditions
+  
 
 The innovation addresses the critical need for a dedicated iris examination system with early detection capabilities, filling a gap in current ophthalmic diagnostic technology.
 
@@ -39,16 +41,18 @@ The innovation addresses the critical need for a dedicated iris examination syst
 > Hinweis: Dieser Inhalt wurde ursprünglich auf Persisch verfasst und mithilfe von KI ins Deutsche übersetzt. Geringe Ungenauigkeiten sind möglich.
 {: .block-warning }
 
-Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:<br>
+Die meisten bestehenden Systeme sind für die Netzhautuntersuchung konzipiert, andere konzentrieren sich auf die Hornhaut oder die Linse. Diese Systeme weisen im Allgemeinen folgende Merkmale auf:
 - Unzureichende Präzision
 - Hohes Fehlerrisiko
-- Keine Spezialisierung auf die Irisuntersuchung<br>
+- Keine Spezialisierung auf die Irisuntersuchung
+  
 
-Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:<br>
+Dies hat zur Entwicklung unseres spezialisierten Systems geführt, das:
 - Früherkennung ermöglicht
 - Speziell für Irisuntersuchungen entwickelt wurde
 - Menschliche Fehler durch fortschrittliche Algorithmen reduziert
-- Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht<br>
+- Hochpräzise Messungen bei Erkrankungen der Iris ermöglicht
+  
 
 Diese Innovation adressiert den dringenden Bedarf an einem dedizierten Irisuntersuchungssystem mit Früherkennungsfunktion und schließt eine Lücke in der aktuellen ophthalmologischen Diagnosetechnologie.
 {% endtab %}
