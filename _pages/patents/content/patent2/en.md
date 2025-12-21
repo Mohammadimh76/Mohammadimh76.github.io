@@ -2,7 +2,9 @@
 >
 > Note: This content was originally written in Persian and translated into English using AI. Minor inaccuracies may exist.
 {: .block-warning }
-
+> 
+{% tabs language-tabs-p3 %}
+> 
 {% capture en_information -%}
 {% include_relative content/patent2/en/information.md %}
 {%- endcapture %}
@@ -27,6 +29,8 @@
 {% tab info-tabs-en Appendices %}
 {{ en_appendices | markdownify }}
 {% endtab %}
+
 {% endtabs %}
+
 
 
