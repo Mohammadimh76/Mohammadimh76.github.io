@@ -33,13 +33,25 @@ $max-content-width: {{ site.max_width }};
   font-display: swap;
 }
 
-/* Apply RTL direction, right alignment, and Shabnam font to the Persian tab content */
+/* Apply RTL direction, full justification, and Persian font stack to the Persian tab content */
 .rtl-tab {
   direction: rtl;
-  text-align: right;
+  text-align: justify;
+  text-justify: inter-word;
   unicode-bidi: plaintext;
   line-height: 1.8;
   font-family: "Shabnam";
+}
+
+/* Helper class to fully justify LTR tab content without affecting RTL sections */
+.ltr-justified {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.ltr-justified p,
+.ltr-justified li {
+  text-align: justify;
 }
 
 /* Define shared color tokens for tip, warning, and danger blocks */
