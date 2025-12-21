@@ -11,7 +11,7 @@ tabs: true
 {% tabs language-tabs-p3 %}
 
 {% tab language-tabs-p3 English %}
-Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:
+Most existing systems are designed for retinal examination, while others focus on the cornea or lens. These systems generally:✈️📌
 - Lack adequate precision
 - Contain human error potential
 - Are not specialized for iris examination
