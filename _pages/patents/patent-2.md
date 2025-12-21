@@ -21,7 +21,7 @@ tabs: true
 {% tab language-tabs-p3 Persian %}
 <div class="rtl-tab">
 {% capture lang_fa -%}
-{% include_relative content/patent3/fa.md %}
+{% include_relative content/patent2/fa.md %}
 {%- endcapture %}
 {{ lang_fa | markdownify }}
 </div>
