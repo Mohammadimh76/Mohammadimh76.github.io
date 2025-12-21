@@ -24,6 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+/* Load the Shabnam font from the local assets for use in Persian tabs */
 @font-face {
   font-family: "Shabnam";
   src: url("/assets/fonts/Shabnam.woff2") format("woff2");
@@ -32,10 +33,64 @@ $max-content-width: {{ site.max_width }};
   font-display: swap;
 }
 
+/* Apply RTL direction, right alignment, and Shabnam font to the Persian tab content */
 .rtl-tab {
   direction: rtl;
   text-align: right;
   unicode-bidi: plaintext;
   line-height: 1.8;
   font-family: "Shabnam";
+}
+
+/* Define shared color tokens for tip, warning, and danger blocks */
+:root {
+  --global-tip-block: #3cb371;
+  --global-tip-block-bg: #103724;
+  --global-tip-block-text: #e7f8ef;
+  --global-tip-block-title: #bfffd7;
+
+  --global-warning-block: #f9c642;
+  --global-warning-block-bg: #3a2b00;
+  --global-warning-block-text: #fff4d0;
+  --global-warning-block-title: #ffe186;
+
+  --global-danger-block: #ff4d4d;
+  --global-danger-block-bg: #3f0505;
+  --global-danger-block-text: #ffdcdc;
+  --global-danger-block-title: #ff9b9b;
+}
+
+/* Style all blockquote callouts inside post content */
+.post .post-content blockquote {
+  border-left: 4px solid;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+
+  /* Success/tip callout palette */
+  &.block-tip {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    p { color: var(--global-tip-block-text); }
+    h1, h2, h3, h4, h5, h6 { color: var(--global-tip-block-title); }
+  }
+
+  /* Warning callout palette */
+  &.block-warning {
+    border-color: var(--global-warning-block);
+    background-color: var(--global-warning-block-bg);
+
+    p { color: var(--global-warning-block-text); }
+    h1, h2, h3, h4, h5, h6 { color: var(--global-warning-block-title); }
+  }
+
+  /* Danger/error callout palette */
+  &.block-danger {
+    border-color: var(--global-danger-block);
+    background-color: var(--global-danger-block-bg);
+
+    p { color: var(--global-danger-block-text); }
+    h1, h2, h3, h4, h5, h6 { color: var(--global-danger-block-title); }
+  }
 }
