@@ -43,17 +43,6 @@ $max-content-width: {{ site.max_width }};
   font-family: "Shabnam";
 }
 
-/* Helper class to fully justify LTR tab content without affecting RTL sections */
-.ltr-justified {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.ltr-justified p,
-.ltr-justified li {
-  text-align: justify;
-}
-
 /* Define shared color tokens for tip, warning, and danger blocks */
 :root {
   --global-tip-block: #3cb371;
