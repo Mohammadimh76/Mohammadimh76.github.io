@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/patent2
-title: Test7
+title: The system for early detection of heterochromia disease in the neonates
 nav: false
 nav_order: 5
 related_posts: false
