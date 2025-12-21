@@ -17,13 +17,6 @@ tabs: true
 {{ lang_en | markdownify }}
 {% endtab %}
 
-{% tab language-tabs-p3 Germany %}
-{% capture lang_de -%}
-{% include_relative content/patent3/de.md %}
-{%- endcapture %}
-{{ lang_de | markdownify }}
-{% endtab %}
-
 {% tab language-tabs-p3 Persian %}
 <div class="rtl-tab">
 {% capture lang_fa -%}
