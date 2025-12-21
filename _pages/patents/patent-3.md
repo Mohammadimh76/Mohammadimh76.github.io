@@ -10,21 +10,21 @@ tabs: true
 
 {% tabs language-tabs-p3 %}
 
-{% tab language-tabs-p3 English %}
+{% tab language-tabs-p3 🇺🇲 English %}
 {% capture lang_en -%}
 {% include_relative content/patent3/en.md %}
 {%- endcapture %}
 {{ lang_en | markdownify }}
 {% endtab %}
 
-{% tab language-tabs-p3 Germany %}
+{% tab language-tabs-p3 🇩🇪 Germany %}
 {% capture lang_de -%}
 {% include_relative content/patent3/de.md %}
 {%- endcapture %}
 {{ lang_de | markdownify }}
 {% endtab %}
 
-{% tab language-tabs-p3 Persian %}
+{% tab language-tabs-p3 🇮🇷 Persian %}
 <div class="rtl-tab">
 {% capture lang_fa -%}
 {% include_relative content/patent3/fa.md %}
