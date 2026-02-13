@@ -10,7 +10,28 @@ tabs: true
 
 {% tabs language-tabs-p3 %}
 
-{% tab language-tabs-p3 English %}
+{% tab language-tabs-p3 Description %}
+{% capture lang_en -%}
+{% include_relative content/patent3/en.md %}
+{%- endcapture %}
+{{ lang_en | markdownify }}
+{% endtab %}
+
+{% tab language-tabs-p3 Claims %}
+{% capture lang_en -%}
+{% include_relative content/patent3/en.md %}
+{%- endcapture %}
+{{ lang_en | markdownify }}
+{% endtab %}
+
+{% tab language-tabs-p3 Drawings %}
+{% capture lang_en -%}
+{% include_relative content/patent3/en.md %}
+{%- endcapture %}
+{{ lang_en | markdownify }}
+{% endtab %}
+
+{% tab language-tabs-p3 Evaluation Report %}
 {% capture lang_en -%}
 {% include_relative content/patent3/en.md %}
 {%- endcapture %}
