@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /patents/patent1
+permalink: /patents/heterochromia
 title: The system for early detection of heterochromia disease in the neonates
 nav: false
 nav_order: 5
