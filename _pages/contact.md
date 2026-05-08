@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: contact
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ### ⚠️**The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com` <br>
