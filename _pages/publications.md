@@ -7,147 +7,124 @@ nav: true
 nav_order: 4
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Publications - M.H. Mohammadi</title>
-  <style>
-    /* 
-     * طراحی مدرن برای بخش Publications 
-     */
-    
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      margin: 40px auto;
-      max-width: 800px;
-      padding: 0 20px;
-      background-color: #ffffff;
-    }
+<style>
+  /* Container for the whole item */
+  .publication-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    margin-bottom: 2rem;
+  }
 
-    /* Container for the whole item */
+  /* Image styling */
+  .pub-image {
+    flex-shrink: 0;
+    width: 160px; /* عرض تصویر ثابت برای دسکتاپ */
+  }
+
+  .pub-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+
+  /* Text Container with Hover Effects */
+  .pub-text {
+    cursor: pointer;
+    padding: 16px 20px;
+    border-radius: 12px;
+    background-color: transparent;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    width: 100%;
+  }
+
+  /* Hover Micro-interaction */
+  .pub-text:hover {
+    background-color: #f8f9fa;
+    transform: translateX(6px);
+  }
+
+  /* Typography */
+  .pub-title {
+    margin: 0 0 8px 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .pub-meta {
+    font-size: 0.85rem;
+    color: #6c757d;
+    margin-bottom: 12px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  .pub-desc {
+    margin: 0 0 16px 0;
+    color: #4a4a4a;
+    line-height: 1.6;
+  }
+
+  /* Call to Action Link */
+  .pub-link {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .pub-text:hover .pub-link {
+    text-decoration: underline;
+    color: #004c99;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
     .publication-item {
-      display: flex;
-      align-items: flex-start;
-      gap: 24px;
-      margin-bottom: 2rem;
+      flex-direction: column;
+      gap: 16px;
     }
-
-    /* Image styling */
+    
     .pub-image {
-      flex-shrink: 0;
-      width: 160px; /* عرض تصویر ثابت برای دسکتاپ */
+      width: 120px;
+      margin-left: 20px;
     }
-
-    .pub-image img {
-      width: 100%;
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* سایه نرم و مدرن */
-    }
-
-    /* Text Container with Hover Effects */
-    .pub-text {
-      cursor: pointer;
-      padding: 16px 20px;
-      border-radius: 12px;
-      background-color: transparent;
-      transition: background-color 0.3s ease, transform 0.3s ease;
-      width: 100%;
-    }
-
-    /* Hover Micro-interaction */
+    
     .pub-text:hover {
-      background-color: #f8f9fa; /* پس‌زمینه خاکستری بسیار ملایم */
-      transform: translateX(6px); /* حرکت نامحسوس و جذاب به سمت راست */
+      transform: translateX(0);
     }
+  }
+</style>
 
-    /* Typography */
-    .pub-title {
-      margin: 0 0 8px 0;
-      font-size: 1.25rem;
-      font-weight: 600;
-      color: #1a1a1a;
-    }
+<br>
 
-    .pub-meta {
-      font-size: 0.85rem;
-      color: #6c757d;
-      margin-bottom: 12px;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; /* حس تکنیکال و مهندسی */
-    }
-
-    .pub-desc {
-      margin: 0 0 16px 0;
-      color: #4a4a4a;
-      line-height: 1.6;
-    }
-
-    /* Call to Action Link */
-    .pub-link {
-      font-size: 0.95rem;
-      font-weight: 500;
-      color: #0066cc;
-      text-decoration: none;
-      transition: color 0.2s ease;
-    }
-
-    .pub-text:hover .pub-link {
-      text-decoration: underline;
-      color: #004c99;
-    }
-
-    /* Mobile Responsiveness */
-    @media (max-width: 768px) {
-      .publication-item {
-        flex-direction: column;
-        gap: 16px;
-      }
-      
-      .pub-image {
-        width: 120px;
-        margin-left: 20px; /* تراز کردن با متن در موبایل */
-      }
-      
-      .pub-text:hover {
-        transform: translateX(0); /* غیرفعال کردن حرکت در موبایل برای UX بهتر */
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Publication Item -->
-  <div class="publication-item">
+<!-- Publication Item 1 -->
+<div class="publication-item">
+  
+  <div class="pub-image">
+    <!-- آدرس عکس خود را اینجا قرار دهید -->
+    <img src="/assets/img/Books/Patent_Mockup.jpg" alt="A Step-By-Step Guide to Patenting in Iran" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <!-- لینک آمازون خود را اینجا قرار دهید -->
+  <div class="pub-text" onclick="window.open('https://amazon.com/...', '_blank')">
+    <h4 class="pub-title">A Step-By-Step Guide to Patenting in Iran</h4>
     
-    <!-- Image Section -->
-    <div class="pub-image">
-      <!-- تصویر پیش‌فرض قرار داده شده تا طرح را بدون ارور ببینید. مسیر عکس خودتان را جایگزین کنید -->
-      <img src="https://via.placeholder.com/300x400?text=Patent+Book+Cover" alt="A Step-By-Step Guide to Patenting in Iran" class="img-fluid rounded z-depth-1">
+    <div class="pub-meta">
+      <span class="pub-date">Nov 2020</span> &bull; 
+      <span class="pub-authors">M.H. Mohammadi, Ali Karimi, S.Y. Moradi</span>
     </div>
     
-    <!-- Text Section with Interactive Hover -->
-    <!-- نکته: لینک آمازون خود را در بخش window.open جایگزین کنید -->
-    <div class="pub-text" onclick="window.open('https://amazon.com/...', '_blank')">
-      <h4 class="pub-title">A Step-By-Step Guide to Patenting in Iran</h4>
-      
-      <div class="pub-meta">
-        <span class="pub-date">Nov 2020</span> &bull; 
-        <span class="pub-authors">M.H. Mohammadi, Ali Karimi, S.Y. Moradi</span>
-      </div>
-      
-      <p class="pub-desc">
-        This book aims to acquaint faculty, university students, researchers, and inventors with the step-by-step patenting process in Iran, bridging the gap between innovative ideas and intellectual property protection.
-      </p>
-      
-      <span class="pub-link">View on Amazon &rarr;</span>
-    </div>
-
+    <p class="pub-desc">
+      This book aims to acquaint faculty, university students, researchers, and inventors with the step-by-step patenting process in Iran, bridging the gap between innovative ideas and intellectual property protection.
+    </p>
+    
+    <span class="pub-link">View on Amazon &rarr;</span>
   </div>
 
-</body>
-</html>
+</div>
 
 ---
 
