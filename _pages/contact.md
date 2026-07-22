@@ -6,8 +6,16 @@ nav: true
 nav_order: 7
 ---
 
-### ⚠️**The best way to reach me:** `m.h.mohammadimir2017[at]gmail.com` <br>
-I look forward to talking with you!
+
+
+### 📬 Get in Touch
+I am always open to discussing research collaborations, AI product innovations, or new opportunities. The most reliable way to reach me is via email.<br>
+
+#### The best way to reach me -> Email: `m.h.mohammadimir2017[at]gmail.com`<br>
+
+LinkedIn: [https://www.linkedin.com/in/mohammadimh76/](https://www.linkedin.com/in/mohammadimh76/)<br>
+
+I look forward to connecting with you!<br>
 
 
 <!--
