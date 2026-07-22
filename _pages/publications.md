@@ -7,31 +7,148 @@ nav: true
 nav_order: 4
 ---
 
-<!-- Main container with separate hover for text only -->
-<div style="clear: both; display: flex; align-items: flex-start;">
-  <!-- Image section without hover effect -->
-  <div style="flex-shrink: 0; padding-right: 3%;">
-    <img src="/assets/img/Books/Patent_Mockup.jpg" alt="Science class image" class="img-fluid rounded z-depth-1" style="width: 100%; height: auto;">
-  </div>
-  
-  <!-- Text container with hover and click functionality -->
-  <div onclick="window.open('', '_blank')" style="cursor: pointer; padding: 10px; transition: background-color 0.3s; width: 100%;">
-    <h4>A Step-By-Step Guide to Patenting in Iran</h4>
-    <h6>November, 1, 2020</h6>
-    <p>
-      This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran...<br><br>
-      <a href="" target="_blank" style="color: #0073e6; text-decoration: underline;" onclick="event.stopPropagation();">[Read more]</a>.
-    </p>
-  </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications - M.H. Mohammadi</title>
+  <style>
+    /* 
+     * طراحی مدرن برای بخش Publications 
+     */
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 40px auto;
+      max-width: 800px;
+      padding: 0 20px;
+      background-color: #ffffff;
+    }
 
-<!-- CSS for hover effect on the text container only -->
-<style>
-  /* Hover effect on the text container only */
-  div[onclick]:hover {
-    background-color: #f0f0f0; /* Light gray background on hover */
-  }
-</style>
+    /* Container for the whole item */
+    .publication-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 24px;
+      margin-bottom: 2rem;
+    }
 
-<br>
+    /* Image styling */
+    .pub-image {
+      flex-shrink: 0;
+      width: 160px; /* عرض تصویر ثابت برای دسکتاپ */
+    }
+
+    .pub-image img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* سایه نرم و مدرن */
+    }
+
+    /* Text Container with Hover Effects */
+    .pub-text {
+      cursor: pointer;
+      padding: 16px 20px;
+      border-radius: 12px;
+      background-color: transparent;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+      width: 100%;
+    }
+
+    /* Hover Micro-interaction */
+    .pub-text:hover {
+      background-color: #f8f9fa; /* پس‌زمینه خاکستری بسیار ملایم */
+      transform: translateX(6px); /* حرکت نامحسوس و جذاب به سمت راست */
+    }
+
+    /* Typography */
+    .pub-title {
+      margin: 0 0 8px 0;
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    .pub-meta {
+      font-size: 0.85rem;
+      color: #6c757d;
+      margin-bottom: 12px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; /* حس تکنیکال و مهندسی */
+    }
+
+    .pub-desc {
+      margin: 0 0 16px 0;
+      color: #4a4a4a;
+      line-height: 1.6;
+    }
+
+    /* Call to Action Link */
+    .pub-link {
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: #0066cc;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .pub-text:hover .pub-link {
+      text-decoration: underline;
+      color: #004c99;
+    }
+
+    /* Mobile Responsiveness */
+    @media (max-width: 768px) {
+      .publication-item {
+        flex-direction: column;
+        gap: 16px;
+      }
+      
+      .pub-image {
+        width: 120px;
+        margin-left: 20px; /* تراز کردن با متن در موبایل */
+      }
+      
+      .pub-text:hover {
+        transform: translateX(0); /* غیرفعال کردن حرکت در موبایل برای UX بهتر */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Publication Item -->
+  <div class="publication-item">
+    
+    <!-- Image Section -->
+    <div class="pub-image">
+      <!-- تصویر پیش‌فرض قرار داده شده تا طرح را بدون ارور ببینید. مسیر عکس خودتان را جایگزین کنید -->
+      <img src="https://via.placeholder.com/300x400?text=Patent+Book+Cover" alt="A Step-By-Step Guide to Patenting in Iran" class="img-fluid rounded z-depth-1">
+    </div>
+    
+    <!-- Text Section with Interactive Hover -->
+    <!-- نکته: لینک آمازون خود را در بخش window.open جایگزین کنید -->
+    <div class="pub-text" onclick="window.open('https://amazon.com/...', '_blank')">
+      <h4 class="pub-title">A Step-By-Step Guide to Patenting in Iran</h4>
+      
+      <div class="pub-meta">
+        <span class="pub-date">Nov 2020</span> &bull; 
+        <span class="pub-authors">M.H. Mohammadi, Ali Karimi, S.Y. Moradi</span>
+      </div>
+      
+      <p class="pub-desc">
+        This book aims to acquaint faculty, university students, researchers, and inventors with the step-by-step patenting process in Iran, bridging the gap between innovative ideas and intellectual property protection.
+      </p>
+      
+      <span class="pub-link">View on Amazon &rarr;</span>
+    </div>
+
+  </div>
+
+</body>
+</html>
+
+---
+
 
