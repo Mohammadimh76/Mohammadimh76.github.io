@@ -32,20 +32,24 @@ latest_posts:
 
 [[<b>LinkedIn</b>]](https://www.linkedin.com/in/MohammadiMH76/) -- [[<b>ORCID</b>]](https://orcid.org/0000-0003-2741-7757) -- [[<b>Github</b>]](https://github.com/MohammadiMH76) -- [[<b>ResearchGate</b>]](https://www.researchgate.net/profile/Mohammad-Hossein-Mohammadi-5)
 
-I am an Information Technology (`IT`) Engineer with a Bachelor’s degree from [`Islamic Azad University, Najafabad Branch`](https://iaun.iau.ir/en), one of the leading universities in Iran/Isfahan. My academic background and research interests are deeply rooted in the fields of <b>machine vision</b>, <b>deep learning</b>, and <b>neural networks</b>. During my studies, I specialized in developing innovative solutions for real-world problems, with a focus on <b>medical imaging</b> and <b>AI-driven systems</b>.
+I am an AI Researcher and Product Engineer whose work sits at the intersection of deep learning, medical image analysis, and human-centered design. With a Bachelor’s degree in Computer Engineering (`IT`) from [`Islamic Azad University, Najafabad Branch`](https://iaun.iau.ir/en), I specialize in transforming complex artificial intelligence models into scalable, interpretable, and user-centric solutions.
 
-My undergraduate <b>thesis</b> involved the `Semantic segmentation of breast cancer pathology images using the U-Net model`, where I worked on improving the accuracy and efficiency of detecting and classifying cancerous tissues. This project gave me hands-on experience in <b>deep learning models</b>, particularly in <b>image processing</b> and <b>medical diagnostics</b>. It was a challenging yet rewarding experience that further fueled my passion for applying AI to healthcare and other impactful industries.
+My academic foundation is heavily rooted in HealthTech and computer vision. For my undergraduate thesis, I developed a deep learning pipeline for the `Semantic segmentation of breast cancer pathology images using the U-Net model`. Building on this passion for medical AI, I have co-authored multiple registered patents, including an AI-driven early detection system for Heterochromia in neonates. These experiences solidified my commitment to leveraging AI for high-impact diagnostic tools.
 
-I am passionate about staying at the forefront of technology and continue to expand my knowledge through independent research and development. In the future, I aim to contribute to cutting-edge innovations in AI, with a particular focus on its applications in healthcare, robotics, and smart systems. 
+Beyond academic research, I bring extensive industry experience in bridging the gap between raw machine learning performance and intuitive user experience. As a Design System Specialist and AI Engineer, I have built end-to-end multimodal systems—ranging from Image Captioning models and Speech Recognition web services to robust design architectures for international tech teams. I strongly believe that for AI to be truly powerful, it must also be accessible and trustworthy.
+
+Currently, I am expanding my research into Large Language Models (LLMs), Generative AI, and Retrieval-Augmented Generation (RAG). My ultimate goal is to contribute to cutting-edge innovations in Explainable AI (XAI) and smart systems, ensuring that next-generation technologies seamlessly and safely integrate into human workflows.
 
 ---
 
 ### Research Interests
-- Artificial Intelligence, Machine Learning   
-- Optimization Algorithm, Neural & Neuro Fuzzy Network
-- Computer Vision, Signal and Image Processing
+- Large Language Models (LLMs) & Generative AI   
+- Computer Vision & Medical Image Analysis
+- Human-Centered AI & Intelligent Systems Design
+- Explainable AI (XAI) & Trustworthy Machine Learning
 
-I am also interested in Cooking, Travel, and Cycling.
+### ☕ Beyond the Screen
+When I am not training models or designing interfaces, you can usually find me cooking, traveling, or cycling.
 
 ---
 
