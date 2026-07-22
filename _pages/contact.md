@@ -11,7 +11,7 @@ nav_order: 7
 ### 📬 Get in Touch
 I am always open to discussing research collaborations, AI product innovations, or new opportunities. The most reliable way to reach me is via email.<br>
 
-#### The best way to reach me -> Email: `m.h.mohammadimir2017[at]gmail.com`<br>
+<b>The best way to reach me -></b> Email: `m.h.mohammadimir2017[at]gmail.com`<br>
 
 LinkedIn: [https://www.linkedin.com/in/mohammadimh76/](https://www.linkedin.com/in/mohammadimh76/)<br>
 
