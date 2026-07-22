@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: awards
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- Main container with separate hover for text only -->
