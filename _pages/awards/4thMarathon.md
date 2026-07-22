@@ -8,6 +8,7 @@ related_posts: false
 tabs: true
 toc:
   beginning: true
+pretty_table: true
 ---
 
 {% tabs language-tabs-p3 %}
