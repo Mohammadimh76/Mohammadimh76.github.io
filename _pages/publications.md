@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- Main container with separate hover for text only -->
