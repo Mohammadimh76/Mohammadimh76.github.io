@@ -141,6 +141,76 @@
 این افراد از دانشجویان و فارغ التحصیلان دانشگاه های معتبر کل کشور در مسابقات شرکت کردند.<br>
 تهران، مشهد، یزد، کرمان، آذربایجان شرقی و غربی، اردبیل، اصفهان، بوشهر، خراسان، خوزستان، زنجان، همدان، گیلان، هرمزگان، شیراز و مازندران برای حضور در این رویداد دعوت شدند.<br>
 
+<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
+
+  <!-- Image 08 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-08.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-08.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 09 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-09.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-09.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 10 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-10.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-10.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 11 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-11.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-11.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 12 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-12.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-12.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 13 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-13.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-13.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 14 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-14.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-14.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+  <!-- Image 15 -->
+  <a href="/assets/img/4th-Marathon/4th-img/4th-15.jpg"
+    data-pswp-width="733"
+    data-pswp-height="789"
+    target="_blank">
+    {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-15.jpg" class="img-fluid rounded z-depth-1" %}
+  </a>
+
+</div>
+
+
+
 ---
 
 ## تیم های منتخب راه یافته به مرحله دوم
