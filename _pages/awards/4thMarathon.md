@@ -9,6 +9,11 @@ tabs: true
 toc:
   beginning: true
 pretty_table: true
+images:
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 {% tabs language-tabs-p3 %}
