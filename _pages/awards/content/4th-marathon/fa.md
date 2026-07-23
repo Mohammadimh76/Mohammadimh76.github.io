@@ -270,6 +270,48 @@
 </div>
 </div>
 
+<br>
+
+### مقام دوم
+<div class="row mt-3">
+    <!-- ستون سمت چپ (عکس) -->
+    <div class="col-sm mt-3 mt-md-0">
+        | Pierate |  |
+|:---|:---|
+| امین | شاه نظری |
+| رسول | سامانی |
+| محمود | باقری |
+| عادل | دادرس |
+    </div>
+    
+    <!-- ستون سمت راست (جدول) -->
+    <div class="col-sm mt-3 mt-md-0" markdown="1">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-23.jpg" class="img-fluid rounded z-depth-1" %}    
+    </div>
+</div>
+
+<br>
+
+### مقام سوم
+
+<div class="row mt-3">
+    <!-- ستون سمت چپ (عکس) -->
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-24.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
+    <!-- ستون سمت راست (جدول) -->
+    <div class="col-sm mt-3 mt-md-0" markdown="1">
+        | یخمک |  |
+|:---|:---|
+| محمدی | محمد حسین |
+| معینی | علی اکبر |
+| داتلی بیگی | هادی |
+
+</div>
+</div>
+
+
 
 ---
 
