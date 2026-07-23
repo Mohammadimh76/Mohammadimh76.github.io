@@ -1,6 +1,9 @@
 <div class="row mt-3">
-    <div class="col-12 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-01.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4thMarathon_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
