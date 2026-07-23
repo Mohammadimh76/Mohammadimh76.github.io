@@ -267,15 +267,8 @@
 | جاوید | مومنی |
 | عارف | بحرینی نژاد |
 
-    </div>
 </div>
-
-### مقام دوم
-
-
-### مقام سوم
-
-
+</div>
 
 
 ---
@@ -301,16 +294,22 @@
 ## سخنرانان اصلی اختتامیه
 
 <div class="row mt-3">
+    <!-- عکس اول (دکتر ربیعی) -->
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-25.jpg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            ۱- <strong>دکتر حمید رضا ربیعی:</strong> دبیر کل رویداد و رئیس پژوهشکده فناوری اطلاعات و ارتباطات پیشرفته دانشگاه صنعتی شریف
+        </div>
     </div>
+    
+    <!-- عکس دوم (دکتر موحد) -->
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-26.jpg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            ۲- <strong>دکتر موحد:</strong> معاون پژوهشی دانشگاه صنعتی شریف
+        </div>
     </div>
 </div>
-
-1. **دکتر حمید رضا ربیعی:** دبیر کل رویداد و رئیس پژوهشکده فناوری اطلاعات و ارتباطات پیشرفته دانشگاه صنعتی شریف<br>
-2. **دکتر موحد:** معاون پژوهشی دانشگاه صنعتی شریف<br>
 
 
 <div class="row mt-3">
@@ -356,7 +355,91 @@
 * گزارش خبری زنده از رویداد در رادیو ایران<br>
 
 **نمونه هایی از پوشش خبری رویداد در خبرگزاری ها:**<br>
-*(لیست خبرگزاری‌ها در این بخش قرار می‌گیرد)*<br>
+
+<div class="row pswp-gallery mt-3" id="gallery--getting-started">
+
+  <!-- Image 32 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-32.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-32.jpg" alt="4th Marathon Image 32" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 33 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-33.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-33.jpg" alt="4th Marathon Image 33" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 34 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-34.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-34.jpg" alt="4th Marathon Image 34" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 35 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-35.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-35.jpg" alt="4th Marathon Image 35" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 36 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-36.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-36.jpg" alt="4th Marathon Image 36" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 37 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-37.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-37.jpg" alt="4th Marathon Image 37" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 38 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-38.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-38.jpg" alt="4th Marathon Image 38" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 39 -->
+  <div class="col-6 col-md-3 mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-39.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/4th-Marathon/4th-img/4th-39.jpg" alt="4th Marathon Image 39" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+</div>
+
 
 ---
 
