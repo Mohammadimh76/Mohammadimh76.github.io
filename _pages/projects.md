@@ -160,7 +160,7 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-        Deployed an end-to-end deep learning speech recognition system with an interactive Streamlit web interface for real-time transcription.
+        <li>Deployed an end-to-end deep learning speech recognition system with an interactive Streamlit web interface for real-time transcription.</li>
       </ul>
     </div>
     
@@ -187,7 +187,7 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-          Engineered a containerized U-Net medical imaging application with a FastAPI backend and intuitive UI for semantic segmentation of breast cancer pathology.
+          <li>Engineered a containerized U-Net medical imaging application with a FastAPI backend and intuitive UI for semantic segmentation of breast cancer pathology.</li>
         </ul>
     </div>
     
