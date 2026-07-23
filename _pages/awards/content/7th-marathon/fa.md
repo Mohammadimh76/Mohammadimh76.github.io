@@ -1,3 +1,23 @@
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-01.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-Marathon-2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-02.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+
+
 ## مقدمه
 ماراتون برنامه نویسی تلفن همراه کشور به همت گروه Sharif ICT و دانشگاه صنعتی شریف و با حمایت معاون علمی وفناوری ریاست جمهوری برگزار می شود.<br>
 این رویداد از بزرگترین و معتبرترین مسابقات برنامه نویسی در حوزه ی تلفن همراه کشور می باشد و از سال 1392 تا کنون 7 دوره این مسابقات در سطح کشور برگزار شده و تیم های برنامه نویسی متعددی را وارد بازار کار کرده است.<br>
@@ -8,6 +28,14 @@
 
 ## هدف اصلی هفتمین ماراتون برنامه نویسی:
 شناسایی تیم های برنامه نویسی برجسته کشور، شناسایی ایده های بکر و خلاقانه و ورود این تیم ها به بازار کار<br>
+
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-03.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ---
 
@@ -28,6 +56,16 @@
 
 ## چالش های انتخاب شده در هفتمین ماراتون برنامه نویسی کشور:
 با توجه به هدف برگزاری رویداد و تاکید ماراتون برنامه نویسی بر هدفمند بودن چالش های مسابقه، برای انتخاب چالش های اصلی یک هفته قبل از برگزاری ماراتون در تاریخ 23 شهریور ماه 1398 و در سالن جلسات باشگاه کسب و کار دانش بنیان جلسه کمیته سیاستگذاری تشکیل شد. نمایندگان حامیان رویداد و مجموعه های فعال در این حوزه در این جلسه حضور یافتند. با توجه به نیاز مجموعه های حاضر و بحث روز تکنولوژی چالش های این رویداد به شرح زیر انتخاب شدند.<br>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-04.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-05.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 **1- فناوری مالی و بیمه**<br>
 * روش های نوین فروش بیمه (شامل فروش قسطی، On Demand، درمان شخصی و …)<br>
@@ -87,6 +125,162 @@
 | پذیرایی نهار | 12:00 الی 13:00 |
 | مراسم اختتامیه، ارائه حضوری تیم های برتر، داوری نهایی و اهدای جوایز | 13:00 الی 17:30 |
 
+
+<div class="row row-cols-2 row-cols-md-5 pswp-gallery mt-3" id="gallery--getting-started">
+
+  <!-- Image 06 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-06.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-06.jpg" alt="7th Marathon Image 06" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 07 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-07.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-07.jpg" alt="7th Marathon Image 07" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 08 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-08.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-08.jpg" alt="7th Marathon Image 08" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 09 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-09.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-09.jpg" alt="7th Marathon Image 09" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 10 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-10.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-10.jpg" alt="7th Marathon Image 10" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 11 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-11.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-11.jpg" alt="7th Marathon Image 11" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 12 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-12.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-12.jpg" alt="7th Marathon Image 12" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 13 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-13.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-13.jpg" alt="7th Marathon Image 13" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 14 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-14.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-14.jpg" alt="7th Marathon Image 14" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 15 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-15.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-15.jpg" alt="7th Marathon Image 15" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 16 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-16.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-16.jpg" alt="7th Marathon Image 16" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 17 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-17.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-17.jpg" alt="7th Marathon Image 17" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 18 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-18.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-18.jpg" alt="7th Marathon Image 18" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 19 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-19.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-19.jpg" alt="7th Marathon Image 19" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 20 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-20.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-20.jpg" alt="7th Marathon Image 20" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+</div>
+
+
 ---
 
 ## روند داوری :
@@ -94,6 +288,154 @@
 معیار های اصلی و کلی داوری شامل ایده پردازی، کار تیمی، پیاده سازی، گرافیک و تجربه کاربری بود.<br>
 تیم اول داوری متشکل از دوستانی بود که هر کدام در موضوع خاصی از موضوعات بالا تخصص داشتند. در طول فرآیند مسابقه، داورها به سراغ تک تک تیم ها میرفتند و علاوه بر دادن مشاوره های لازم و مشاهده فعالیت ها و دستاورد ها، با تیم ها درمورد روش کار صحبت میکردند و به تدریج امتیازات هر تیم را ثبت میکردند. این افراد نرم افزار تیم ها را با توجه به معیارهای حوزه ی انتخابی مورد بررسی قرار میدادند. امتیازات ثبت شده، بهترین تیم های هر حوزه را معرفی میکرد. تا پایان مسابقه کسی از نتیجه ی این انتخاب با خبر نبود، بنابراین تیمها میبایست فرآیند تکمیل پروژه و موارد لازم دیگر را طبق روند گذشته ادامه میدادند. در پایان ۴۸ ساعت و در مراسم اختتامیه، به تدریج اسامی تیم های راه یافته به مرحله دوم اعلام شد.<br>
 در مرحله دوم مسابقه و مراسم اختتامیه، تیم های منتخب فرصت ۱۰ دقیقه ای برای ارائه ی آنچه که طراحی و پیاده سازی نموده است را داشتند. در این مرحله تیم دوم داوری که شامل اعضای کمیته ارتباط با صنعت و نمایندگان حامیان رویداد بودند بر اساس معیارهای هر حوزه، رای های خود را ثبت کردند. امتیازات داوری مرحله اول به علاوه امتیازات داوری مرحله دوم برترین برترین ها را مشخص خواهد کرد که در ادامه گزارش معرفی خواهند شد.<br>
+
+
+<div class="row row-cols-2 row-cols-md-5 pswp-gallery mt-3" id="gallery--getting-started">
+
+  <!-- Image 21 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-21.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-21.jpg" alt="7th Marathon Image 21" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 22 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-22.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-22.jpg" alt="7th Marathon Image 22" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 23 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-23.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-23.jpg" alt="7th Marathon Image 23" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 24 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-24.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-24.jpg" alt="7th Marathon Image 24" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 25 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-25.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-25.jpg" alt="7th Marathon Image 25" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 26 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-26.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-26.jpg" alt="7th Marathon Image 26" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 27 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-27.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-27.jpg" alt="7th Marathon Image 27" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 28 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-28.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-28.jpg" alt="7th Marathon Image 28" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 29 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-29.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-29.jpg" alt="7th Marathon Image 29" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 30 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-30.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-30.jpg" alt="7th Marathon Image 30" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 31 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-31.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-31.jpg" alt="7th Marathon Image 31" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 32 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-32.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-32.jpg" alt="7th Marathon Image 32" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 33 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-33.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-33.jpg" alt="7th Marathon Image 33" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 34 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-34.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-34.jpg" alt="7th Marathon Image 34" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+</div>
+
+
+
 
 ---
 
@@ -192,9 +534,74 @@
 | 70 | meeseeks | 0.6930 |
 
 ### تیم های برتر
+
 * **تیم اول:** (while(1<br>
+
+<div class="row mt-3">
+    <!-- ستون سمت چپ (عکس) -->
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-35.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
+    <!-- ستون سمت راست (جدول) -->
+    <div class="col-sm mt-3 mt-md-0" markdown="1">
+
+| نام | نام تیم | تحصیلات | شهر | سال تولد |
+|:---|:---|:---|:---|:---|
+| فرناز کامرانفر | (while(1 | دانشجوی مهندسی کامپیوتر دانشگاه فردوسی مشهد | مشهد | متولد 1377 |
+| نسترن احمدی بنکدار | (while(1 | دانشجوی مهندسی کامپیوتر دانشگاه فردوسی مشهد | مشهد | متولد 1378 |
+| زینب سادات ایمانی | (while(1 | دانشجوی مهندسی کامپیوتر دانشگاه فردوسی مشهد | مشهد | متولد 1377 |
+
+</div>
+</div>
+
+
+
+
 * **تیم دوم:** چلسمه<br>
+
+
+<div class="row mt-3">
+    <!-- ستون سمت چپ (عکس) -->
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-Marathon-1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
+    <!-- ستون سمت راست (جدول) -->
+    <div class="col-sm mt-3 mt-md-0" markdown="1">
+
+| نام | نام تیم | تحصیلات | شهر | سال تولد |
+|:---|:---|:---|:---|:---|
+| هادی داتلی بیگی | چلسمه | لیسانس مهندسی کامپیوتر دانشگاه آزاد نجف آباد | اصفهان | متولد 1372 |
+| محمد حسین محمدی | چلسمه | لیسانس مهندسی کامپیوتر دانشگاه آزاد نجف آباد | اصفهان | متولد 1376 |
+| علی اکبر معینی | چلسمه | لیسانس مهندسی کامپیوتر دانشگاه آزاد نجف آباد | اصفهان | متولد 1375 |
+
+</div>
+</div>
+
+
+
 * **تیم سوم:** Dagger<br>
+
+<div class="row mt-3">
+    <!-- ستون سمت چپ (عکس) -->
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-36.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    
+    <!-- ستون سمت راست (جدول) -->
+    <div class="col-sm mt-3 mt-md-0" markdown="1">
+
+| نام | نام تیم | تحصیلات | شهر | سال تولد |
+|:---|:---|:---|:---|:---|
+| امیررضا بهادرپور | Dagger | مهندسی عمران دانشگاه اصفهان | اصفهان | متولد 1375 |
+| سجاد احمدی | Dagger | مهندسی کامپیوتر دانشگاه بیرجند | مشهد | متولد 1376 |
+| حسین الله رسانی | Dagger | مهندسی کامپیوتر دانشگاه بیرجند | بیرجند | متولد 1376 |
+
+</div>
+</div>
+
+
 
 ---
 
@@ -218,10 +625,231 @@
 ---
 
 ## تصاویر مراسم اختتامیه
-*(محل قرارگیری تصاویر)*<br>
+
+
+<div class="row row-cols-2 row-cols-md-5 pswp-gallery mt-3" id="gallery--getting-started">
+
+  <!-- Image 37 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-37.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-37.jpg" alt="7th Marathon Image 37" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 38 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-38.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-38.jpg" alt="7th Marathon Image 38" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 39 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-39.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-39.jpg" alt="7th Marathon Image 39" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 40 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-40.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-40.jpg" alt="7th Marathon Image 40" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 41 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-41.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-41.jpg" alt="7th Marathon Image 41" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 42 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-42.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-42.jpg" alt="7th Marathon Image 42" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 43 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-43.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-43.jpg" alt="7th Marathon Image 43" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 44 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-44.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-44.jpg" alt="7th Marathon Image 44" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 45 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-45.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-45.jpg" alt="7th Marathon Image 45" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 46 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-46.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-46.jpg" alt="7th Marathon Image 46" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 47 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-47.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-47.jpg" alt="7th Marathon Image 47" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 48 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-48.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-48.jpg" alt="7th Marathon Image 48" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 49 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-49.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-49.jpg" alt="7th Marathon Image 49" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 50 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-50.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-50.jpg" alt="7th Marathon Image 50" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 51 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-51.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-51.jpg" alt="7th Marathon Image 51" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+  <!-- Image 52 -->
+  <div class="col mb-4">
+    <a href="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-52.jpg"
+      data-pswp-width="400"
+      data-pswp-height="400"
+      target="_blank">
+      <img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/refs/heads/main/assets/img/7th-Marathon/7th-img/7th-52.jpg" alt="7th Marathon Image 52" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+
+</div>
+
+<br>
+
+
 
 ## نتایج نظر سنجی انجام شده در حین برگزاری رویداد
-*(محل قرارگیری نتایج نظرسنجی)*<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-53.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-54.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-55.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-56.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-57.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-58.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-59.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-60.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-61.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
+
+
 
 ---
 
@@ -236,16 +864,57 @@
 * پوشش خبری در خبرگزاری های معتبر کشور (حداقل 35 رپرتاژ خبری)<br>
 * درج پست اطلاع رسانی در شبکه های مجازی (حداقل 100 پست تلگرام، اینستا و لینکدین)<br>
 
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-62.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
 ---
 
 ## حامیان اصلی ماراتون هفتم:
-* **حامیان طلایی:** *(محل قرارگیری اطلاعات)*<br>
-* **حامیان نقره ای:** *(محل قرارگیری اطلاعات)*<br>
-* **حامیان برنزی:** *(محل قرارگیری اطلاعات)*<br>
+
+
+* **حامیان طلایی:** <br>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-63.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+* **حامیان نقره ای:** <br>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-64.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+* **حامیان برنزی:** <br>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-65.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 ---
 
 ## برگزار کنندگان
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-66.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 **دبیر کل رویداد:**<br>
 جناب آقای دکتر ربیعی (رئیس پژوهشکده نوآوری فناوری اطلاعات و ارتباطات پیشرفته دانشگاه صنعتی شریف)<br>
@@ -261,5 +930,12 @@
 
 **طراح و مجری رویداد:**<br>
 شرکت آریا راد شریف<br>
+
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th-Marathon/7th-img/7th-67.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 **تابستان 1398**<br>
