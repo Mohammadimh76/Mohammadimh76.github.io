@@ -6,7 +6,100 @@ nav: true
 nav_order: 5
 ---
 
-<!-- Publication/Award Item 1 -->
+<style>
+  /* Container for the whole item */
+  .publication-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    margin-bottom: 2rem;
+  }
+
+  /* Image styling */
+  .pub-image {
+    flex-shrink: 0;
+    width: 160px; /* عرض تصویر ثابت برای دسکتاپ */
+  }
+
+  .pub-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+
+  /* Text Container with Hover Effects */
+  .pub-text {
+    cursor: pointer;
+    padding: 16px 20px;
+    border-radius: 12px;
+    background-color: transparent;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    width: 100%;
+  }
+
+  /* Hover Micro-interaction */
+  .pub-text:hover {
+    background-color: #f8f9fa;
+    transform: translateX(6px);
+  }
+
+  /* Typography */
+  .pub-title {
+    margin: 0 0 8px 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #0066CC;
+  }
+
+  .pub-meta {
+    font-size: 0.85rem;
+    color: #6c757d;
+    margin-bottom: 12px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  .pub-desc {
+    margin: 0 0 16px 0;
+    color: #4a4a4a;
+    line-height: 1.6;
+  }
+
+  /* Call to Action Link */
+  .pub-link {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .pub-text:hover .pub-link {
+    text-decoration: underline;
+    color: #004c99;
+  }
+
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    .publication-item {
+      flex-direction: column;
+      gap: 16px;
+    }
+    
+    .pub-image {
+      width: 120px;
+      margin-left: 20px;
+    }
+    
+    .pub-text:hover {
+      transform: translateX(0);
+    }
+  }
+</style>
+
+<br>
+
+<!-- Publication/Award Item 2 (7th Marathon) -->
 <div class="publication-item">
   
   <div class="pub-image">
@@ -30,7 +123,7 @@ nav_order: 5
 
 </div>
 
-<!-- Publication/Award Item 2 -->
+<!-- Publication/Award Item 3 (4th Marathon) -->
 <div class="publication-item">
   
   <div class="pub-image">
@@ -54,7 +147,7 @@ nav_order: 5
 
 </div>
 
-<!-- Publication/Award Item 3 -->
+<!-- Publication/Award Item 4 (Sanjesh) -->
 <div class="publication-item">
   
   <div class="pub-image">
