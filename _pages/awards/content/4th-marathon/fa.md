@@ -5,6 +5,13 @@
 </div>
 
 
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-02.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 
 
@@ -34,6 +41,15 @@
 **ورزش و سرگرمی**<br>
 * مسابقات هواداری ورزشی<br>
 * بازی با محوریت کشف علایق، آرزوها و تمایلات فردی<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-03.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-04.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -87,6 +103,24 @@
 
 ---
 
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-05.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-06.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-07.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## مراحل داوری
 در طول ۴۸ ساعت تیم ها برنامه های خود را در یکی از حوزه ها طراحی و اجرا خواهند نمود.<br>
 هر حوزه معیار داوری مربوط به خود را خواهد داشت، بنابراین روند تکمیل پروژه میبایست با در نظر داشتن این معیارها انجام شود تا بالاترین امتیازها کسب گردد.<br>
@@ -139,12 +173,53 @@
 ---
 
 ## سخنرانان اصلی اختتامیه
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-25.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-26.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 1. **دکتر حمید رضا ربیعی:** دبیر کل رویداد و رئیس پژوهشکده فناوری اطلاعات و ارتباطات پیشرفته دانشگاه صنعتی شریف<br>
 2. **دکتر موحد:** معاون پژوهشی دانشگاه صنعتی شریف<br>
+
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-27.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-28.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-29.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-30.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
 ## حامیان رسانه ای رویداد
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-31.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 **نمونه هایی از پوشش خبری رویداد در صدا و سیما:**<br>
 * پخش در اخبار ساعت 18:30 شبکه خبر مورخ 23/06/1396<br>
@@ -161,3 +236,10 @@
 
 ## حامیان اصلی چهارمین ماراتون برنامه نویسی
 *(اسامی و لوگوی حامیان در این بخش قرار می‌گیرد)*<br>
+
+
+<div class="row mt-3">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/4th-Marathon/4th-img/4th-40.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
