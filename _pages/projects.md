@@ -133,7 +133,7 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-        Developed a scalable CNN-LSTM deep learning system in Python to automatically generate contextual text descriptions for images.
+        <li>Developed a scalable CNN-LSTM deep learning system in Python to automatically generate contextual text descriptions for images.</li>
       </ul>
     </div>
     
