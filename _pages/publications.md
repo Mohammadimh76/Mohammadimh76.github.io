@@ -109,12 +109,12 @@ nav_order: 4
   </div>
   
   <!-- لینک آمازون خود را اینجا قرار دهید -->
-  <div class="pub-text" onclick="window.open('https://amazon.com/...', '_blank')">
+  <div class="pub-text" onclick="window.open('https://www.amazon.com/Step-Step-Guide-Patenting-Iran-ebook/dp/B08YKDFC4Q', '_blank')">
     <h4 class="pub-title">A Step-By-Step Guide to Patenting in Iran</h4>
     
     <div class="pub-meta">
       <span class="pub-date">Nov 2020</span> &bull; 
-      <span class="pub-authors">M.H. Mohammadi, Ali Karimi, S.Y. Moradi</span>
+      <span class="pub-authors">M.H. Mohammadi, Ali Karimi, Seyed Yahya Moradi</span>
     </div>
     
     <p class="pub-desc">
