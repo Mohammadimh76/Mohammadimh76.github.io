@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-<!-- اگر این کدهای استایل را قبلاً در صفحه گذاشته‌اید، نیازی به کپی مجدد این بخش <style> نیست -->
+
 <style>
   /* Container for the whole item */
   .publication-item {
@@ -104,8 +104,8 @@ nav_order: 3
 <div class="publication-item">
   
   <div class="pub-image">
-    <!-- آدرس عکس مربوط به پتنت اول را در src جایگزین کنید -->
-    <img src="/assets/img/patents/patent_Heterochromia .png" alt="Heterochromia disease detection patent" class="img-fluid rounded z-depth-1">
+    <!-- نام عکس اصلاح شد (فاصله قبل از .png حذف شد) -->
+    <img src="/assets/img/patents/patent_Heterochromia.png" alt="Heterochromia disease detection patent" class="img-fluid rounded z-depth-1">
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
@@ -130,7 +130,6 @@ nav_order: 3
 <div class="publication-item">
   
   <div class="pub-image">
-    <!-- آدرس عکس مربوط به پتنت دوم را در src جایگزین کنید -->
     <img src="/assets/img/patents/patent_Pocket_Injective.png" alt="Pocket Protector Patent" class="img-fluid rounded z-depth-1">
   </div>
   
