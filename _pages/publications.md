@@ -50,7 +50,7 @@ nav_order: 4
     margin: 0 0 8px 0;
     font-size: 1.25rem;
     font-weight: 600;
-    color: #1a1a1a;
+    color: #0066CC;
   }
 
   .pub-meta {
