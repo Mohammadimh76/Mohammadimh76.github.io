@@ -133,10 +133,7 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-        <li>Developed an end-to-end AI system at the intersection of Computer Vision and NLP to generate contextually relevant textual descriptions for unstructured image data.</li>
-        <li>Architected a hybrid neural network utilizing Convolutional Neural Networks (CNN) for robust feature extraction and Long Short-Term Memory (LSTM) networks for accurate sequence generation.</li>
-        <li>Trained, optimized, and validated the deep learning model on the Flickr8k dataset, managing complex data preprocessing pipelines for sequential text tokens and images.</li>
-        <li>Focused on writing clean, modular, and object-oriented Python code to ensure high system maintainability and scalability.</li>
+        Developed a scalable CNN-LSTM deep learning system in Python to automatically generate contextual text descriptions for images.
       </ul>
     </div>
     
@@ -163,10 +160,7 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-        <li>Designed, trained, and deployed an automated Speech Recognition system to process sequential audio streams and map extracted acoustic features to text using deep neural networks.</li>
-        <li>Built a robust data preprocessing pipeline to handle raw audio signals and bridge the gap between machine learning performance and user experience.</li>
-        <li>Engineered a human-centered, interactive web dashboard using Streamlit, allowing end-users to seamlessly record audio, upload files, and view real-time transcriptions.</li>
-        <li>Applied UX principles and modular code architecture (with Git version control) to ensure visual consistency, accessibility, and readiness for CI/CD integration.</li>
+        Deployed an end-to-end deep learning speech recognition system with an interactive Streamlit web interface for real-time transcription.
       </ul>
     </div>
     
@@ -193,11 +187,8 @@ nav_order: 2
     
     <div class="pub-desc">
       <ul>
-        <li>Engineered a production-ready deep learning application for the semantic segmentation of breast cancer pathology images, transforming academic research into a scalable software product.</li>
-        <li>Developed and fine-tuned a U-Net architecture to precisely delineate tissue boundaries and detect tumor regions, maximizing diagnostic potential.</li>
-        <li>Packaged the trained PyTorch model into a high-performance RESTful API using FastAPI, and containerized the backend using Docker for isolated, cloud-ready deployment.</li>
-        <li>Conceptualized an intuitive frontend interface leveraging Product Design principles, enabling physicians to upload scans and analyze segmentation masks without technical friction.</li>
-      </ul>
+          Engineered a containerized U-Net medical imaging application with a FastAPI backend and intuitive UI for semantic segmentation of breast cancer pathology.
+        </ul>
     </div>
     
     <span class="pub-link">View Project &rarr;</span>
