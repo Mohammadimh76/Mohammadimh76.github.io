@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/Couplingdevice
-title: The system for early detection of heterochromia disease in the neonat
+title: Coupling device temperature to body temperature for ambulances and hospitals sera
 nav: false
 nav_order: 5
 related_posts: false
