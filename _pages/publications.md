@@ -179,7 +179,7 @@ nav_order: 4
 <!-- Book Item 2 -->
 <div class="publication-item">
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Basics of Internet of Things (IoT)" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/Books/IOT_Mockup.jpg" alt="Basics of Internet of Things (IoT)" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/IOT', '_blank')">
@@ -201,7 +201,7 @@ nav_order: 4
 <!-- Book Item 3 -->
 <div class="publication-item">
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/Books/Matlab_Mockup.jpg" alt="Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/MATLABSoftware', '_blank')">
