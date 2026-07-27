@@ -56,7 +56,7 @@ When I am not training models or designing interfaces, you can usually find me c
 ### Education
 BSc - Computer Enginnering (Information Technology) - 2015-2021 <br>
 Islamic Azad University, Najafabad Branch
-- Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model (Document)
+- Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model <a href="https://mohammadimh76.github.io/bsc-thesis/" target="_blank">(Document)</a>
 - Thesis Advisor: Dr.Mehdi Jabalameli
 - 📄 <a href="https://mohammadimh76.github.io/coursedescription/" target="_blank">Course Description</a>
 
