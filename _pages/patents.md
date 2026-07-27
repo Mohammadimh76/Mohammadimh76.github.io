@@ -150,3 +150,53 @@ nav_order: 3
   </div>
 
 </div>
+
+<!-- Patent Item 3 -->
+<div class="publication-item">
+  
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Energy Waste Reduction System patent" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Energy Waste Reduction System based on prediction of people’s presence and working time in industries and medical centers</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">#</span> &bull; 
+      <span class="pub-authors">S.Y. Moradi, M.H. Mohammadi, A. Anvari</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Patent No:</b> IR-139850140003011094 | Iran Patent
+    </p>
+    
+    <span class="pub-link">View Patent &rarr;</span>
+  </div>
+
+</div>
+
+<!-- Patent Item 4 -->
+<div class="publication-item">
+  
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Coupling device temperature patent" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Coupling device temperature to body temperature for ambulances and hospitals sera</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">#</span> &bull; 
+      <span class="pub-authors">S.Y. Moradi, S.Z. Moradi, M.H. Mohammadi</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Patent No:</b> IR-139550140003013173 | Iran Patent
+    </p>
+    
+    <span class="pub-link">View Patent &rarr;</span>
+  </div>
+
+</div>
