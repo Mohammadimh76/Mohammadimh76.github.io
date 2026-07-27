@@ -196,4 +196,31 @@ nav_order: 2
 
 </div>
 
+<!-- Project Item 4 -->
+<div class="publication-item">
+  
+  <div class="pub-image">
+    <!-- آدرس عکس مربوط به پروژه را جایگزین کنید -->
+    <img src="/assets/img/sample.png" alt="Video Borescope Reverse Engineering" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Reverse Engineering: Video Borescope Device</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">Oct 2017</span> &bull; 
+      <span class="pub-authors">Hardware Design, Prototyping, Reverse Engineering</span>
+    </div>
+    
+    <div class="pub-desc">
+      <ul>
+          <li>Co-designed and reverse-engineered industrial video borescopes featuring interchangeable probes (2.4mm--8.4mm) and 4-way joystick articulation for advanced machinery endoscopy.</li>
+        </ul>
+    </div>
+    
+    <span class="pub-link">View Project &rarr;</span>
+  </div>
+
+</div>
+
 
