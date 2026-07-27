@@ -123,7 +123,7 @@ nav_order: 2
   </div>
   
   <!-- لینک گیت‌هاب یا جزئیات پروژه را در بخش window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/MultimodalAI', '_blank')">
     <h4 class="pub-title">Multimodal AI: Image Caption Generation System</h4>
     
     <div class="pub-meta">
@@ -150,7 +150,7 @@ nav_order: 2
     <img src="/assets/img/sample.png" alt="Speech Recognition Web Service" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/SpeechRecognition', '_blank')">
     <h4 class="pub-title">End-to-End Speech Recognition Web Service</h4>
     
     <div class="pub-meta">
@@ -177,7 +177,7 @@ nav_order: 2
     <img src="/assets/img/sample.png" alt="HealthTech AI Medical Segmentation" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/HealthTechAI', '_blank')">
     <h4 class="pub-title">HealthTech AI: Medical Image Segmentation</h4>
     
     <div class="pub-meta">
@@ -204,7 +204,7 @@ nav_order: 2
     <img src="/assets/img/sample.png" alt="Video Borescope Reverse Engineering" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/VideoBorescope', '_blank')">
     <h4 class="pub-title">Reverse Engineering: Video Borescope Device</h4>
     
     <div class="pub-meta">
