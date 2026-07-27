@@ -109,7 +109,7 @@ nav_order: 3
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/patents/heterochromia', '_blank')">
     <h4 class="pub-title">The system for early detection of Heterochromia disease in the neonates</h4>
     
     <div class="pub-meta">
@@ -134,7 +134,7 @@ nav_order: 3
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/patents/PocketProtector', '_blank')">
     <h4 class="pub-title">Pocket Protector Of Sensitive Injective And Inhalant Vials Against Temperature And Impact Changes</h4>
     
     <div class="pub-meta">
@@ -159,7 +159,7 @@ nav_order: 3
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/patents/EnergyWaste', '_blank')">
     <h4 class="pub-title">Energy Waste Reduction System based on prediction of people’s presence and working time in industries and medical centers</h4>
     
     <div class="pub-meta">
@@ -184,7 +184,7 @@ nav_order: 3
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/patents/Couplingdevice', '_blank')">
     <h4 class="pub-title">Coupling device temperature to body temperature for ambulances and hospitals sera</h4>
     
     <div class="pub-meta">
