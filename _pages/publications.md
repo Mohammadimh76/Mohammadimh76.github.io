@@ -109,7 +109,7 @@ nav_order: 4
     <img src="/assets/img/sample.png" alt="Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/TelemedicineNetworks', '_blank')">
     <h4 class="pub-title">Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks</h4>
     
     <div class="pub-meta">
@@ -131,7 +131,7 @@ nav_order: 4
     <img src="/assets/img/sample.png" alt="Telemedicine Methods; Basics, Design, and Optimization" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/TelemedicineMethods', '_blank')">
     <h4 class="pub-title">Telemedicine Methods; Basics, Design, and Optimization</h4>
     
     <div class="pub-meta">
@@ -160,7 +160,7 @@ nav_order: 4
   </div>
   
   <!-- لینک آمازون خود را اینجا قرار دهید -->
-  <div class="pub-text" onclick="window.open('https://www.amazon.com/Step-Step-Guide-Patenting-Iran-ebook/dp/B08YKDFC4Q', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/patent', '_blank')">
     <h4 class="pub-title">A Step-By-Step Guide to Patenting in Iran</h4>
     
     <div class="pub-meta">
@@ -182,7 +182,7 @@ nav_order: 4
     <img src="/assets/img/sample.png" alt="Basics of Internet of Things (IoT)" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/IOT', '_blank')">
     <h4 class="pub-title">Basics of Internet of Things (IoT)</h4>
     
     <div class="pub-meta">
@@ -204,7 +204,7 @@ nav_order: 4
     <img src="/assets/img/sample.png" alt="Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software" class="img-fluid rounded z-depth-1">
   </div>
   
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/MATLABSoftware', '_blank')">
     <h4 class="pub-title">Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software</h4>
     
     <div class="pub-meta">
