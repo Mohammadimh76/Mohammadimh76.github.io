@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /patents/patent2
+permalink: /patents/PocketProtector
 title: The system for early detection of heterochromia disease in the neonat
 nav: false
 nav_order: 5
