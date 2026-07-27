@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /patents/patent3
+permalink: /patents/EnergyWaste
 title: patent85
 nav: false
 nav_order: 5
