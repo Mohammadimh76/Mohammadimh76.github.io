@@ -100,9 +100,60 @@ nav_order: 4
 
 <br>
 
-<!-- Publication Item 1 -->
+<!-- ================= Articles Section ================= -->
+<h3>Articles</h3>
+
+<!-- Article Item 1 -->
 <div class="publication-item">
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks" class="img-fluid rounded z-depth-1">
+  </div>
   
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">2018</span> &bull; 
+      <span class="pub-authors">S.Y. Moradi, M. Akbari Moghaddam, M.H. Mohammadi</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Journal:</b> Journal of Rafsanjan University of Medical Sciences (JRUMS)
+    </p>
+    
+    <span class="pub-link">View Article &rarr;</span>
+  </div>
+</div>
+
+<!-- Article Item 2 -->
+<div class="publication-item">
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Telemedicine Methods; Basics, Design, and Optimization" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Telemedicine Methods; Basics, Design, and Optimization</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">2018</span> &bull; 
+      <span class="pub-authors">S.Y. Moradi, M. Akbari Moghaddam, M.H. Mohammadi</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Conference:</b> 3rd International conference on Modern Approaches in Science, Technology and Engineering
+    </p>
+    
+    <span class="pub-link">View Article &rarr;</span>
+  </div>
+</div>
+
+<br>
+
+<!-- ================= Books Section ================= -->
+<h3>Books</h3>
+
+<!-- Book Item 1 -->
+<div class="publication-item">
   <div class="pub-image">
     <!-- آدرس عکس خود را اینجا قرار دهید -->
     <img src="/assets/img/Books/Patent_Mockup.jpg" alt="A Step-By-Step Guide to Patenting in Iran" class="img-fluid rounded z-depth-1">
@@ -123,7 +174,50 @@ nav_order: 4
     
     <span class="pub-link">View on Amazon &rarr;</span>
   </div>
+</div>
 
+<!-- Book Item 2 -->
+<div class="publication-item">
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Basics of Internet of Things (IoT)" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Basics of Internet of Things (IoT)</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">2021</span> &bull; 
+      <span class="pub-authors">S.Y. Moradi, M.H. Mohammadi</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Publisher:</b> Arna | <b>ISBN:</b> 978-622-2910-14-3
+    </p>
+    
+    <span class="pub-link">View Book &rarr;</span>
+  </div>
+</div>
+
+<!-- Book Item 3 -->
+<div class="publication-item">
+  <div class="pub-image">
+    <img src="/assets/img/sample.png" alt="Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software" class="img-fluid rounded z-depth-1">
+  </div>
+  
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">2021</span> &bull; 
+      <span class="pub-authors">A. Salehi, S.Y. Moradi, M.H. Mohammadi, M. Radaei</span>
+    </div>
+    
+    <p class="pub-desc">
+      <b>Publisher:</b> Arna | <b>ISBN:</b> 978-622-291-001-3
+    </p>
+    
+    <span class="pub-link">View Book &rarr;</span>
+  </div>
 </div>
 
 ---
