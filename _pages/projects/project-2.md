@@ -6,6 +6,8 @@ title: End-to-End Speech Recognition Web Service
 
 ### The project poster is shown below. 👇
 
+### 📍[Download Poster](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/img/projects/End-to-EndSpeechRecognitionWebService.png?utm_source=chatgpt.com)
+
 <div class="row mt-3">
     <div class="col-12 mt-3 mt-md-0">
         {% include figure.liquid
@@ -15,8 +17,4 @@ title: End-to-End Speech Recognition Web Service
             zoomable=true %}
     </div>
 </div>
-
-<br>
-
-📍[Download Poster](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/img/projects/End-to-EndSpeechRecognitionWebService.png?utm_source=chatgpt.com)
 
