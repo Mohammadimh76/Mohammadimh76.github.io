@@ -10,6 +10,6 @@ nav_order: 5
 
 <object data="/assets/pdf/BSc/BSc_Thesis.pdf" type="application/pdf" width="100%" height="1000px">
     <embed src="/assets/pdf/BSc/BSc_Thesis.pdf">
-        <p>This browser does not support PDFs. Please <a href="/assets/pdf/CourseDescription/CourseDescription_IT_IAUN.pdf">download the PDF</a> to view.</p>
+        <p>This browser does not support PDFs. Please <a href="/assets/pdf/BSc/BSc_Thesis.pdf">download the PDF</a> to view.</p>
     </embed>
 </object>
