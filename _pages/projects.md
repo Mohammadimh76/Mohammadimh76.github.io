@@ -196,6 +196,33 @@ nav_order: 2
 
 </div>
 
+<!-- Project Item - M.S. Thesis -->
+<div class="publication-item">
+  
+  <div class="pub-image">
+    <!-- آدرس عکس یا لوگوی مربوط به پایان‌نامه خود را قرار دهید -->
+    <img src="/assets/img/sample.png" alt="U-Net Breast Cancer Pathological Image Segmentation" class="img-fluid rounded z-depth-1">
+  </div>  
+  <!-- لینک گیت‌هاب، مقاله یا صفحه توضیحات پایان‌نامه را در بخش window.open قرار دهید -->
+  <div class="pub-text" onclick="window.open('#', '_blank')">
+    <h4 class="pub-title">Deep Learning for Breast Cancer Pathology Image Segmentation</h4>
+    
+    <div class="pub-meta">
+      <span class="pub-date">M.S. Thesis</span> &bull; 
+      <span class="pub-authors">Python, PyTorch, U-Net, Deep Learning, Medical Image Analysis</span>
+    </div>
+    
+    <div class="pub-desc">
+      <ul>
+        <li>Implemented and evaluated a U-Net-based deep convolutional architecture for precise semantic segmentation of breast cancer pathology images under the supervision of Dr. Mahdi Jabalameli.</li>
+      </ul>
+    </div>
+    
+    <span class="pub-link">View Project &rarr;</span>
+  </div>
+
+</div>
+
 <!-- Project Item 4 -->
 <div class="publication-item">
   
