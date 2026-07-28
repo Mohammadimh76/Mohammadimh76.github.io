@@ -15,3 +15,7 @@ title: Multimodal AI- Image Caption Generation System
             zoomable=true %}
     </div>
 </div>
+
+<br>
+
+📍[Download Poster](https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/main/assets/img/projects/MultimodalAIImageCaptionGenerationSystem.png)
