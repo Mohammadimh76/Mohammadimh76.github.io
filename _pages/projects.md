@@ -119,7 +119,7 @@ nav_order: 2
   
   <div class="pub-image">
     <!-- آدرس عکس مربوط به پروژه را جایگزین کنید -->
-    <img src="/assets/img/sample.png" alt="Multimodal AI Image Captioning" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/projects/MultimodalAIImageCaptionGenerationSystem.png" alt="Multimodal AI Image Captioning" class="img-fluid rounded z-depth-1">
   </div>
   
   <!-- لینک گیت‌هاب یا جزئیات پروژه را در بخش window.open قرار دهید -->
@@ -147,7 +147,7 @@ nav_order: 2
   
   <div class="pub-image">
     <!-- آدرس عکس مربوط به پروژه را جایگزین کنید -->
-    <img src="/assets/img/sample.png" alt="Speech Recognition Web Service" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/projects/End-to-EndSpeechRecognitionWebService.png" alt="Speech Recognition Web Service" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/SpeechRecognition', '_blank')">
@@ -174,7 +174,7 @@ nav_order: 2
   
   <div class="pub-image">
     <!-- آدرس عکس مربوط به پروژه را جایگزین کنید -->
-    <img src="/assets/img/sample.png" alt="HealthTech AI Medical Segmentation" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/projects/HealthTechAIMedicalImageSegmentation.png" alt="HealthTech AI Medical Segmentation" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/HealthTechAI', '_blank')">
@@ -196,12 +196,12 @@ nav_order: 2
 
 </div>
 
-<!-- Project Item - M.S. Thesis -->
+<!-- Project Item - BSc Thesis -->
 <div class="publication-item">
   
   <div class="pub-image">
     <!-- آدرس عکس یا لوگوی مربوط به پایان‌نامه خود را قرار دهید -->
-    <img src="/assets/img/sample.png" alt="U-Net Breast Cancer Pathological Image Segmentation" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/projects/u-net.png" alt="U-Net Breast Cancer Pathological Image Segmentation" class="img-fluid rounded z-depth-1">
   </div>  
   <!-- لینک گیت‌هاب، مقاله یا صفحه توضیحات پایان‌نامه را در بخش window.open قرار دهید -->
   <div class="pub-text" onclick="window.open('#', '_blank')">
