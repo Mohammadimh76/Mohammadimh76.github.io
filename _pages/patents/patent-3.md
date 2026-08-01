@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /projects/EnergyWaste
+permalink: /patents/EnergyWaste
 title: Energy Waste Reduction System based on prediction of people’s presence and working time in industries and medical centers
 ---
 
