@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /patents/
 title: patents
+permalink: /patents/
 nav: true
 nav_order: 3
 ---
