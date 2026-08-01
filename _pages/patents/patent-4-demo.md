@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /patents/Couplingdevice/demo
+permalink: /patents/Couplingdevice-demo
 title: Coupling device temperature to body temperature for ambulances and hospitals sera
 nav: false
 nav_order: 5
