@@ -228,7 +228,7 @@ nav_order: 2
   
   <div class="pub-image">
     <!-- آدرس عکس مربوط به پروژه را جایگزین کنید -->
-    <img src="/assets/img/sample.png" alt="Video Borescope Reverse Engineering" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/projects/ReverseEngineering.png" alt="Video Borescope Reverse Engineering" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/VideoBorescope', '_blank')">
