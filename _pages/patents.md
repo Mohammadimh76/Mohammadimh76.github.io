@@ -130,7 +130,7 @@ nav_order: 3
 <div class="publication-item">
   
   <div class="pub-image">
-    <img src="/assets/img/patents/patent_Pocket_Injective.png" alt="Pocket Protector Patent" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/patents/PocketProtector.png" alt="Pocket Protector Patent" class="img-fluid rounded z-depth-1">
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
@@ -155,7 +155,7 @@ nav_order: 3
 <div class="publication-item">
   
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Energy Waste Reduction System patent" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/patents/EnergyWasteReductionSystem.png" alt="Energy Waste Reduction System patent" class="img-fluid rounded z-depth-1">
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
@@ -180,7 +180,7 @@ nav_order: 3
 <div class="publication-item">
   
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Coupling device temperature patent" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/patents/TemperatureForAmbulances.png" alt="Coupling device temperature patent" class="img-fluid rounded z-depth-1">
   </div>
   
   <!-- لینک مربوط به صفحه پتنت را در window.open قرار دهید -->
