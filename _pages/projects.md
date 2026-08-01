@@ -208,7 +208,7 @@ nav_order: 2
     <h4 class="pub-title">Deep Learning for Breast Cancer Pathology Image Segmentation</h4>
     
     <div class="pub-meta">
-      <span class="pub-date">M.S. Thesis</span> &bull; 
+      <span class="pub-date">BSc. Thesis</span> &bull; 
       <span class="pub-authors">Python, PyTorch, U-Net, Deep Learning, Medical Image Analysis</span>
     </div>
     
