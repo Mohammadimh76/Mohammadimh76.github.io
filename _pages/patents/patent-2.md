@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /projects/PocketProtector
+permalink: /patents/PocketProtector
 title: Pocket Protector Of Sensitive Injective And Inhalant Vials Against Temperature And Impact Changes
 ---
 
