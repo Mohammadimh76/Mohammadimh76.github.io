@@ -204,7 +204,7 @@ nav_order: 2
     <img src="/assets/img/projects/U-Net_poster.png" alt="U-Net Breast Cancer Pathological Image Segmentation" class="img-fluid rounded z-depth-1">
   </div>  
   <!-- لینک گیت‌هاب، مقاله یا صفحه توضیحات پایان‌نامه را در بخش window.open قرار دهید -->
-  <div class="pub-text" onclick="window.open('#', '_blank')">
+  <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/projects/U-Net', '_blank')">
     <h4 class="pub-title">Deep Learning for Breast Cancer Pathology Image Segmentation</h4>
     
     <div class="pub-meta">
