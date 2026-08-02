@@ -106,7 +106,7 @@ nav_order: 4
 <!-- Article Item 1 -->
 <div class="publication-item">
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/Aricles/Article_TelemedicineNetworks.png" alt="Computer Modeling of Information Transmission Principles and Methods in Telemedicine Networks" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/TelemedicineNetworks', '_blank')">
@@ -128,7 +128,7 @@ nav_order: 4
 <!-- Article Item 2 -->
 <div class="publication-item">
   <div class="pub-image">
-    <img src="/assets/img/sample.png" alt="Telemedicine Methods; Basics, Design, and Optimization" class="img-fluid rounded z-depth-1">
+    <img src="/assets/img/Aricles/Aricle_TelemedicineMethods.png" alt="Telemedicine Methods; Basics, Design, and Optimization" class="img-fluid rounded z-depth-1">
   </div>
   
   <div class="pub-text" onclick="window.open('https://mohammadimh76.github.io/publications/TelemedicineMethods', '_blank')">
