@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /patents/Couplingdevice
+permalink: /patent/Couplingdevice
 title: Coupling device temperature to body temperature for ambulances and hospitals sera
 ---
 
